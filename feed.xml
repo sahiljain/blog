@@ -1,51 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sahil Jains Blog</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Sahil Jain's Blog</title>
+    <description>I'm Sahil, a Software Engineering student at the University of Waterloo. I'm currently looking for an internship January to April 2017.
 </description>
     <link>https://blog.sahiljain.ca/</link>
     <atom:link href="https://blog.sahiljain.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2016 14:16:18 -0400</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2016 14:16:18 -0400</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 14:53:51 -0400</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 14:53:51 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>First Post</title>
-        <description>&lt;p&gt;this is my first post&lt;/p&gt;
+        <title>My Time at Pivotal Labs</title>
+        <description>&lt;p&gt;Overall, I had an awesome time over the last 4 months.  I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.&lt;/p&gt;
+
+&lt;h2 id=&quot;orientation&quot;&gt;Orientation&lt;/h2&gt;
+
+&lt;p&gt;On the first day we learned how Xtreme Labs became Pivotal Labs, and then how Pivotal Labs was a part of a larger organization, Pivotal. For our first week, we weren’t assigned to any project. We were told to create an app on a platform of our choice, which consumes a REST API. The app must display information in a list format, and load it asynchronously. As a bonus, we have to persist the data. I chose to learn iOS, but after 3 days, I finished my basic app and got bored, so I made another one in Android. We also had to test our app using a framework made by Pivotal. These include, Robolectric (Android), Cedar (iOS), and Jasmine (Javascript).&lt;/p&gt;
+
+&lt;h2 id=&quot;culture&quot;&gt;Culture&lt;/h2&gt;
+
+&lt;h3 id=&quot;lunch-and-learns&quot;&gt;Lunch and Learns&lt;/h3&gt;
+&lt;p&gt;Every Tuesday the company had a Lunch and Learn, where lunch was catered and a speaker was invited to talk to us about a relevant topic. These talks were a mixture of technical and business. Some topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Money management&lt;/li&gt;
+  &lt;li&gt;How to market your app&lt;/li&gt;
+  &lt;li&gt;TDD with Robolectric&lt;/li&gt;
+  &lt;li&gt;MVVM on Android&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pair-programming&quot;&gt;Pair Programming&lt;/h3&gt;
+&lt;p&gt;Every developer at Pivotal Labs works at a pairing station. Each pairing station has one computer, two duplicate monitors, two keyboards, and two mice. At any given time, only one person can control the computer. This allows for a constant code review by the person who isn’t typing. At first, it’s difficult to grasp the idea that you are not in control of your computer. At the beginning, it frustrated me too. Later on, you become so used to it that it’s hard to code without someone there to tell you you’re on the right path. Code quality significantly increases since every line has been written with at least two pairs of eyes on it. Finally, pair programming increases productivity despite the fact that only 1 out of 2 people can type. There’s no time to screw around when someone is always there watching your screen.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-tools&quot;&gt;The Tools&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pivotal Tracker&lt;/strong&gt;, our story management tool.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Robolectric&lt;/strong&gt;, an Android testing framework developed by Pivotal Labs.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Travis CI&lt;/strong&gt; for continuous integration.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Android Studio&lt;/strong&gt; for our Android IDE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;application-process&quot;&gt;Application Process&lt;/h2&gt;
+
+&lt;p&gt;The process started with a written test, which consisted of only 3 questions:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You are given a staircase with &lt;strong&gt;n&lt;/strong&gt; number of steps. With each stride you take,
+you can either cover 1 step, or 2 steps. How many different ways can you climb the staircase?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Determine whether two rectangles are intersecting. (You are given the coordinates of all vertices of the rectangles)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What notable projects have you worked on in the past?&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 05 Sep 2016 13:17:04 -0400</pubDate>
-        <link>https://blog.sahiljain.ca/2016/09/05/first-post.html</link>
-        <guid isPermaLink="true">https://blog.sahiljain.ca/2016/09/05/first-post.html</guid>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 -0400</pubDate>
+        <link>https://blog.sahiljain.ca/2016/09/05/my-time-at-pivotal-labs.html</link>
+        <guid isPermaLink="true">https://blog.sahiljain.ca/2016/09/05/my-time-at-pivotal-labs.html</guid>
         
+        <category>co-op</category>
         
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 05 Sep 2016 13:11:39 -0400</pubDate>
-        <link>https://blog.sahiljain.ca/jekyll/update/2016/09/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://blog.sahiljain.ca/jekyll/update/2016/09/05/welcome-to-jekyll.html</guid>
+        <category>pivotal</category>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
