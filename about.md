@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Sahil, a Software Engineering Student at the University of Waterloo. I'm currently looking for an internship for January to April 2017. For more information, visit [my website](http://www.sahiljain.ca) or [view my resume](http://sahiljain.ca/media/Sahil_Jain_Resume.pdf).
