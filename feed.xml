@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sahil Jain's Blog</title>
-    <description>I'm Sahil, a Software Engineering student at the University of Waterloo. I'm currently looking for an internship January to April 2017.
+    <description>I'm Sahil, a Software Engineering student at the University of Waterloo.
 </description>
     <link>https://blog.sahiljain.ca/</link>
     <atom:link href="https://blog.sahiljain.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Sep 2016 03:13:35 -0400</pubDate>
-    <lastBuildDate>Sun, 11 Sep 2016 03:13:35 -0400</lastBuildDate>
+    <pubDate>Fri, 30 Dec 2016 00:59:43 -0500</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2016 00:59:43 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,6 +19,26 @@
   &lt;li&gt;Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world.&lt;/li&gt;
   &lt;li&gt;Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2016/09/11/what-i-wish-i-knew-in-first-year.html&quot;;
+    this.page.identifier = &quot;/2016/09/11/what-i-wish-i-knew-in-first-year&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
 
 </description>
         <pubDate>Sun, 11 Sep 2016 02:44:08 -0400</pubDate>
@@ -130,6 +150,26 @@
 &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
   &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2016/09/11/how-i-got-free-wi-fi-at-a-hotel.html&quot;;
+    this.page.identifier = &quot;/2016/09/11/how-i-got-free-wi-fi-at-a-hotel&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
+
 </description>
         <pubDate>Sun, 11 Sep 2016 00:05:43 -0400</pubDate>
         <link>https://blog.sahiljain.ca/2016/09/11/how-i-got-free-wi-fi-at-a-hotel.html</link>
@@ -185,6 +225,27 @@ you can either cover 1 step, or 2 steps. How many different ways can you climb t
 &lt;blockquote&gt;
   &lt;p&gt;What notable projects have you worked on in the past?&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html&quot;;
+    this.page.identifier = &quot;/2014/09/03/pivotal-labs&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;
+
 </description>
         <pubDate>Wed, 03 Sep 2014 00:00:00 -0400</pubDate>
         <link>https://blog.sahiljain.ca/2014/09/03/pivotal-labs.html</link>
