@@ -9,3 +9,5 @@ date: 2016-09-11T02:44:08-04:00
 + Don't apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You're a software engineer in an era when software is eating the world.
 + Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you've earned. The Waterloo program doesn't give you any vacation. It's a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.
 
+{% include disqus.html %}
+

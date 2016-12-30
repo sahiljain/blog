@@ -104,3 +104,6 @@ try:
 except KeyboardInterrupt:
   sys.exit(1)
 {% endhighlight %}
+
+{% include disqus.html %}
+
