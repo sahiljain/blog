@@ -39,6 +39,8 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.1)
       jekyll (>= 2.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.7)
@@ -57,6 +59,7 @@ DEPENDENCIES
   jekyll (= 3.2.1)
   minima
   octopress (~> 3.0)
+  octopress-image-tag
 
 RUBY VERSION
    ruby 2.0.0p645

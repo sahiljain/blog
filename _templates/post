@@ -3,3 +3,8 @@ layout: {{ layout }}
 title: "{{ title }}"
 date: {{ date }}
 ---
+
+
+
+{% include disqus.html %}
+
