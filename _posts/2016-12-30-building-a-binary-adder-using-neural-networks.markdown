@@ -113,6 +113,7 @@ biases = {
 }
 {% endhighlight %}
 
+The rest of the Tensorflow program is left as an exercise to the reader.
 
 
 {% include disqus.html %}
