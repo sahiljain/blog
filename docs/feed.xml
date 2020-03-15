@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-15T12:26:03-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/2020/03/14/tech-intern-resume-tips.html" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/2020/03/14/tech-intern-resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/2020/03/14/tech-intern-resume-tips.html">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-15T12:53:16-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/tech-intern-resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/tech-intern-resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/tech-intern-resume-tips/">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
 have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot
 of resumes over the years and I’ve seen that good resumes follow a certain pattern.&lt;/p&gt;
 
@@ -73,7 +73,7 @@ interested, they will continue reading the line.&lt;/p&gt;
 &lt;p&gt;Keep it to one page, talk about impact instead of a list of everything you
 built, include numerical metrics where possible, include keywords (languages,
 technologies) as much as possible, and keep the best info to the top-left of the
-resume.&lt;/p&gt;</content><author><name></name></author><summary type="html">In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.</summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks.html" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks</id><content type="html" xml:base="http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks.html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
+resume.&lt;/p&gt;</content><author><name></name></author><summary type="html">In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.</summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://blog.sahiljain.ca/building-a-binary-adder-using-neural-networks/" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://blog.sahiljain.ca/building-a-binary-adder-using-neural-networks</id><content type="html" xml:base="http://blog.sahiljain.ca/building-a-binary-adder-using-neural-networks/">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;While taking Andrew Ng’s &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning
@@ -187,8 +187,8 @@ weights as matrices.&lt;/p&gt;
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks.html&quot;;
-    this.page.identifier = &quot;/2016/12/30/building-a-binary-adder-using-neural-networks&quot;;
+    this.page.url = &quot;http://blog.sahiljain.ca/building-a-binary-adder-using-neural-networks/&quot;;
+    this.page.identifier = &quot;/building-a-binary-adder-using-neural-networks&quot;;
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -199,7 +199,7 @@ weights as matrices.&lt;/p&gt;
 &lt;/script&gt;
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">What I Wish I Knew in First Year</title><link href="http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year.html" rel="alternate" type="text/html" title="What I Wish I Knew in First Year" /><published>2016-09-10T23:44:08-07:00</published><updated>2016-09-10T23:44:08-07:00</updated><id>http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year</id><content type="html" xml:base="http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year.html">&lt;ul&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">What I Wish I Knew in First Year</title><link href="http://blog.sahiljain.ca/what-i-wish-i-knew-in-first-year/" rel="alternate" type="text/html" title="What I Wish I Knew in First Year" /><published>2016-09-10T23:44:08-07:00</published><updated>2016-09-10T23:44:08-07:00</updated><id>http://blog.sahiljain.ca/what-i-wish-i-knew-in-first-year</id><content type="html" xml:base="http://blog.sahiljain.ca/what-i-wish-i-knew-in-first-year/">&lt;ul&gt;
   &lt;li&gt;Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé.&lt;/li&gt;
   &lt;li&gt;Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook.&lt;/li&gt;
   &lt;li&gt;Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas.&lt;/li&gt;
@@ -213,8 +213,8 @@ weights as matrices.&lt;/p&gt;
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year.html&quot;;
-    this.page.identifier = &quot;/2016/09/10/what-i-wish-i-knew-in-first-year&quot;;
+    this.page.url = &quot;http://blog.sahiljain.ca/what-i-wish-i-knew-in-first-year/&quot;;
+    this.page.identifier = &quot;/what-i-wish-i-knew-in-first-year&quot;;
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -225,7 +225,7 @@ weights as matrices.&lt;/p&gt;
 &lt;/script&gt;
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé. Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook. Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas. Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world. Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.</summary></entry><entry><title type="html">How I Got Free Wi-Fi at a Hotel</title><link href="http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel.html" rel="alternate" type="text/html" title="How I Got Free Wi-Fi at a Hotel" /><published>2016-09-10T21:05:43-07:00</published><updated>2016-09-10T21:05:43-07:00</updated><id>http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel</id><content type="html" xml:base="http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel.html">&lt;p&gt;&lt;em&gt;Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.&lt;/em&gt;&lt;/p&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé. Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook. Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas. Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world. Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.</summary></entry><entry><title type="html">How I Got Free Wi-Fi at a Hotel</title><link href="http://blog.sahiljain.ca/how-i-got-free-wi-fi-at-a-hotel/" rel="alternate" type="text/html" title="How I Got Free Wi-Fi at a Hotel" /><published>2016-09-10T21:05:43-07:00</published><updated>2016-09-10T21:05:43-07:00</updated><id>http://blog.sahiljain.ca/how-i-got-free-wi-fi-at-a-hotel</id><content type="html" xml:base="http://blog.sahiljain.ca/how-i-got-free-wi-fi-at-a-hotel/">&lt;p&gt;&lt;em&gt;Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Recently I visited Blue Mountain, and I wanted to see if I could avoid paying $15 per day per device for internet access. Once you connect to their network, they present 3 options to purchase internet access:&lt;/p&gt;
 
@@ -331,8 +331,8 @@ weights as matrices.&lt;/p&gt;
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel.html&quot;;
-    this.page.identifier = &quot;/2016/09/10/how-i-got-free-wi-fi-at-a-hotel&quot;;
+    this.page.url = &quot;http://blog.sahiljain.ca/how-i-got-free-wi-fi-at-a-hotel/&quot;;
+    this.page.identifier = &quot;/how-i-got-free-wi-fi-at-a-hotel&quot;;
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -343,7 +343,7 @@ weights as matrices.&lt;/p&gt;
 &lt;/script&gt;
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.</summary></entry><entry><title type="html">My Time at Pivotal Labs</title><link href="http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html" rel="alternate" type="text/html" title="My Time at Pivotal Labs" /><published>2014-09-03T00:00:00-07:00</published><updated>2014-09-03T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/2014/09/03/pivotal-labs</id><content type="html" xml:base="http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html">&lt;p&gt;Overall, I had an awesome time over the last 4 months.  I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.&lt;/p&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.</summary></entry><entry><title type="html">My Time at Pivotal Labs</title><link href="http://blog.sahiljain.ca/pivotal-labs/" rel="alternate" type="text/html" title="My Time at Pivotal Labs" /><published>2014-09-03T00:00:00-07:00</published><updated>2014-09-03T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/pivotal-labs</id><content type="html" xml:base="http://blog.sahiljain.ca/pivotal-labs/">&lt;p&gt;Overall, I had an awesome time over the last 4 months.  I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.&lt;/p&gt;
 
 &lt;h2 id=&quot;orientation&quot;&gt;Orientation&lt;/h2&gt;
 
@@ -395,8 +395,8 @@ you can either cover 1 step, or 2 steps. How many different ways can you climb t
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html&quot;;
-    this.page.identifier = &quot;/2014/09/03/pivotal-labs&quot;;
+    this.page.url = &quot;http://blog.sahiljain.ca/pivotal-labs/&quot;;
+    this.page.identifier = &quot;/pivotal-labs&quot;;
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');

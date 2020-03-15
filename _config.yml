@@ -28,12 +28,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.sahiljain.ca" # the base hostname & protocol for your site
 twitter_username: _sahil_jain
 github_username:  sahiljain
+linkedin_username: sahiljainwaterloo
 
 # Build settings
-# markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+permalink: /:title/
+destination: docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
