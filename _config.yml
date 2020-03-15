@@ -23,7 +23,7 @@
 title: Sahil Jain's Blog
 email: sahil.jain@uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Sahil, a Software Engineering student at the University of Waterloo.
+  I'm Sahil, a Software Engineering grad from the University of Waterloo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.sahiljain.ca" # the base hostname & protocol for your site
 twitter_username: _sahil_jain
