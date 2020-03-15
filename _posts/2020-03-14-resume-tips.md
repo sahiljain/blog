@@ -79,3 +79,5 @@ Keep it to one page, talk about impact instead of a list of everything you
 built, include numerical metrics where possible, include keywords (languages,
 technologies) as much as possible, and keep the best info to the top-left of the
 resume.
+
+{% include disqus.html %}

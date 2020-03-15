@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-15T12:59:13-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/resume-tips/">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-15T13:04:28-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/resume-tips/">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
 have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot
 of resumes over the years and I’ve seen that good resumes follow a certain pattern.&lt;/p&gt;
 
@@ -73,7 +73,27 @@ interested, they will continue reading the line.&lt;/p&gt;
 &lt;p&gt;Keep it to one page, talk about impact instead of a list of everything you
 built, include numerical metrics where possible, include keywords (languages,
 technologies) as much as possible, and keep the best info to the top-left of the
-resume.&lt;/p&gt;</content><author><name></name></author><summary type="html">In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.</summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://blog.sahiljain.ca/binary-adder/" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://blog.sahiljain.ca/binary-adder</id><content type="html" xml:base="http://blog.sahiljain.ca/binary-adder/">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
+resume.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/resume-tips/&quot;;
+    this.page.identifier = &quot;/resume-tips&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.</summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://blog.sahiljain.ca/binary-adder/" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://blog.sahiljain.ca/binary-adder</id><content type="html" xml:base="http://blog.sahiljain.ca/binary-adder/">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;While taking Andrew Ng’s &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning
