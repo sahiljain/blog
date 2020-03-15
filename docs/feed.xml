@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-15T12:20:59-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering student at the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/2020/03/14/tech-intern-resume-tips.html" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/2020/03/14/tech-intern-resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/2020/03/14/tech-intern-resume-tips.html">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
+have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot
+of resumes over the years and I’ve seen that good resumes follow a certain pattern.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-resume-is-not-a-summary&quot;&gt;The Resume is not a Summary&lt;/h1&gt;
+
+&lt;p&gt;The resume is an advertisement highlighting your best relevant qualities, not a summary of everything you’ve done.
+Recruiters have to sift through hundreds of resumes, and they don’t have time to
+read every one. To save on time, they shortlist a handful of resumes by quickly skimming over them, and they don’t consider the rest.
+The hardest part of finding an internship is getting your resume into their shortlist.
+Once you’re there, it’s very likely that you’ll get an interview, and if
+you get the interview it’s likely you’ll get the job. If a company receives 200
+resumes, they will shortlist 30 of them, interview 10 candidates, and give out 5
+offers. Make the resume look really good for the snap-judgement phase by
+highlighting your best qualities, instead of summarizing all your
+accomplishments.&lt;/p&gt;
+
+&lt;h1 id=&quot;concise-format&quot;&gt;Concise Format&lt;/h1&gt;
+
+&lt;p&gt;Keep the resume to 1 column and 1 page. 2 columns are difficult to
+read, and you don’t have enough experience to span multiple pages.&lt;/p&gt;
+
+&lt;p&gt;At the top should be your name, your program and current term number.&lt;/p&gt;
+
+&lt;p&gt;Next should be a list of technologies and languages that you know. Recruiters
+will often quickly scan through resumes looking for a certain technology, so
+having this information right at the top is useful for them. With
+technologies/languages, the more you have the better.&lt;/p&gt;
+
+&lt;p&gt;Then should be your job experience: past internships, and other tech-related
+jobs if you have any. Don’t put unrelated jobs unless you’re looking for your
+first internship. Put the company name, job title, the dates you worked there,
+and the city. Later on I’ll go into how to best describe your job experience.&lt;/p&gt;
+
+&lt;p&gt;After that should be your side projects, which are especially important if you don’t
+have a lot of internships under your belt. For your projects, mention what
+technologies you used, what it does, when you built it, and any difficult
+challenges you had.&lt;/p&gt;
+
+&lt;p&gt;Then should be your education, and this is low in your resume since the
+recruiter will know you are from Waterloo, and will know what program you’re in
+from the application package. This should also include your cumulative average
+if it’s above 85%.&lt;/p&gt;
+
+&lt;p&gt;Last should be any awards you have from university or high school, particularly,
+waterloo CS/math contests.&lt;/p&gt;
+
+&lt;p&gt;Do not write about miscellaneous skills, do not list your hobbies, and do not
+put an objective. No one makes an employment decision based on hobbies, and if they do, they will ask you about it in
+the interview.&lt;/p&gt;
+
+&lt;h1 id=&quot;writing-about-work-experience&quot;&gt;Writing about Work Experience&lt;/h1&gt;
+
+&lt;p&gt;Describing your technologies, languages, projects, education, and awards is
+pretty straightforward, they are just a list. The content writing comes in when
+you’re describing your job experience. I see the same mistakes over and over.&lt;/p&gt;
+
+&lt;p&gt;Don’t talk about what you worked on, talk about the impact you had. The first
+line (or two) should describe your general job, and every line after that should
+be phrased like the following: &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Impact&amp;gt; by building &amp;lt;x feature&amp;gt; using &amp;lt;y
+technology&amp;gt;&lt;/code&gt;. For example, you could say &lt;code class=&quot;highlighter-rouge&quot;&gt;Reduced Messenger background data
+usage by 1-2% by building Invertible Bloom Filters for set reconciliation&lt;/code&gt;.
+Having a numerical metric is awesome, but impact of any kind is great. When
+talking about your general job, you can also emphasize how important your team
+is by talking about the impact of the team (number of users of product for
+example). What I don’t like to see is a long list of &lt;code class=&quot;highlighter-rouge&quot;&gt;Developed x&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Implemented
+y&lt;/code&gt;, etc. Phrase it so the impact is first in the line, because you should keep
+your most important information to the left, and if the reader is still
+interested, they will continue reading the line.&lt;/p&gt;
+
+&lt;h1 id=&quot;tldr&quot;&gt;TL;DR&lt;/h1&gt;
+
+&lt;p&gt;Keep it to one page, talk about impact instead of a list of everything you
+built, include numerical metrics where possible, include keywords (languages,
+technologies) as much as possible, and keep the best info to the top-left of the
+resume.&lt;/p&gt;</content><author><name></name></author><summary type="html">In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.</summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks.html" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks</id><content type="html" xml:base="http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks.html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;While taking Andrew Ng’s &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning
+course&lt;/a&gt;, I came across the idea
+that neurons in neural networks can simulate logic gates. I wanted to prove this
+by manually building a neural network to perform binary addition, and then later
+having a neural network learn binary addition via training. This is a really
+interesting concept: it shows that there is an equivalence between digital
+circuits and neural networks. The neural network is executing on a digital
+computer, and it is able to simulate a digital computer. It’s another paradigm
+of computing, and the mapping I am about to describe is sound and complete.
+Furthermore, biological neurons perform the same function as artifical neurons,
+so it also shows an equivalence between digital computers and the brain.&lt;/p&gt;
+
+&lt;p&gt;Let’s first take a look at what an individual neuron does:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/neuron.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It takes in an array of inputs &lt;script type=&quot;math/tex&quot;&gt;u_0, u_1, u_2&lt;/script&gt;, multiplies each element by its
+respective weight, and sums this. If the sum is greater than the threshold
+(&lt;script type=&quot;math/tex&quot;&gt;-b_0&lt;/script&gt;), output 1, otherwise output 0. Formally, the output is&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;y_0 = sigmoid(u_0w_0 + u_1w_1 + u_2w_2 + b_0)&lt;/script&gt;
+
+&lt;p&gt;where &lt;script type=&quot;math/tex&quot;&gt;sigmoid&lt;/script&gt; is a smoothed step function outputting 1 if the input is &lt;script type=&quot;math/tex&quot;&gt;&gt;
+0&lt;/script&gt;. Using this formula, and restricting the inputs to be 0 or 1, we can build
+an AND operator:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/and.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If both inputs are 0, the sum will be -1.5 so the neuron will not activate. If
+only 1 input is 1, the sum will be -0.5 so the neuron will not activate. If both
+inputs are 1, the sum will be 0.5 so the neuron will activate. Similarly, we can build an OR operator:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/or.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We can also build a NOT operator:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/not.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using these 3 basic logic gates, we can build more complicated gates such as
+XOR. We can simplify the XOR gate by realizing that &lt;script type=&quot;math/tex&quot;&gt;A\ XOR\ B&lt;/script&gt; is the same as &lt;script type=&quot;math/tex&quot;&gt;(A\ OR\ B)\ AND\ NOT\ (A\ AND\ B)&lt;/script&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/xor.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that we have the basic conversions from logic gates to neurons, let’s look
+at the logic circuit for a 2-bit binary adder:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/adder_circuit.png&quot; alt=&quot;Neuron&quot; width=&quot;600px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first output is calculated by XORing the 2 least-significant bits. There is
+a carry-over only if the first bits are both 1. Translating each logic gate into
+neurons, the neural network for the binary adder should look like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/adder_network.png&quot; alt=&quot;Neuron&quot; width=&quot;600px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This network takes in 4 inputs (2 bits for input a, 2 bits for input b), and
+outputs 3 bits, since adding 2 bit numbers can result in 3 bits (ex. 3 + 3 = 6,
+so 11 + 11 = 110). There are 2 hidden layers: the first hidden layer has 6
+neurons, and the second hidden layer has 4 neurons. Going from left to right,
+the layers are of size: 4,6,4,5,3.&lt;/p&gt;
+
+&lt;p&gt;We can manually test this network we have built on some inputs and see that it
+works. Now, let’s use Tensorflow and automatically train a neural network of the
+same shape to learn binary addition!&lt;/p&gt;
+
+&lt;p&gt;We’ll start by importing Tensorflow, and setting the size of the input layer,
+the 3 intermediate layers, and the output layer:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;tensorflow&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;input_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The Tensorflow python library is mostly just an interface to the main C++
+backend which runs in a separate process. In order to communicate with the C++
+backend, we need to specify shared data in the form of tf Variables. The input
+(the 2 2-bit numbers) will be one variable (a vector of size 4), the output will be another (a vector of size 3), and the
+weights and biases of the network will also be variables. We will specify the
+weights as matrices.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Variable to populate with input
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;float&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;input_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Variable which will be populated with output
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;float&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Variables which we will be learning
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weights&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'h1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'h2'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'h3'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'out'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;biases&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'b1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'b2'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'b3'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;'out'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The rest of the Tensorflow program is left as an exercise to the reader.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2016/12/30/building-a-binary-adder-using-neural-networks.html&quot;;
+    this.page.identifier = &quot;/2016/12/30/building-a-binary-adder-using-neural-networks&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">What I Wish I Knew in First Year</title><link href="http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year.html" rel="alternate" type="text/html" title="What I Wish I Knew in First Year" /><published>2016-09-10T23:44:08-07:00</published><updated>2016-09-10T23:44:08-07:00</updated><id>http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year</id><content type="html" xml:base="http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year.html">&lt;ul&gt;
+  &lt;li&gt;Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé.&lt;/li&gt;
+  &lt;li&gt;Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook.&lt;/li&gt;
+  &lt;li&gt;Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas.&lt;/li&gt;
+  &lt;li&gt;Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world.&lt;/li&gt;
+  &lt;li&gt;Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2016/09/10/what-i-wish-i-knew-in-first-year.html&quot;;
+    this.page.identifier = &quot;/2016/09/10/what-i-wish-i-knew-in-first-year&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé. Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook. Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas. Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world. Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.</summary></entry><entry><title type="html">How I Got Free Wi-Fi at a Hotel</title><link href="http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel.html" rel="alternate" type="text/html" title="How I Got Free Wi-Fi at a Hotel" /><published>2016-09-10T21:05:43-07:00</published><updated>2016-09-10T21:05:43-07:00</updated><id>http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel</id><content type="html" xml:base="http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel.html">&lt;p&gt;&lt;em&gt;Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I visited Blue Mountain, and I wanted to see if I could avoid paying $15 per day per device for internet access. Once you connect to their network, they present 3 options to purchase internet access:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Enter your credit card information and get billed directly.&lt;/li&gt;
+  &lt;li&gt;Enter your room number and name and have the charge applied to your room.&lt;/li&gt;
+  &lt;li&gt;Enter an authorization code.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I pursued option 3, and decided to crack an authorization code through brute-force. I looked through the html/javascript and found that it wasn’t minified, so it was easy to see the logic. The submit button triggers a javascript function that uses JQuery to get the value of the auth code field, and it makes an HTTP GET request where the auth code is a query parameter. The result is a JSON object, and if the property “status” is 2, then it is a valid auth code. This endpoint was very fast, and didn’t have any special encoding or security measurements in place. On the website it said that authorization codes are case insensitive, and I made the assumption that they were alphanumeric.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ajax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://portal.ihotel.ca/GuestsAPI?function=ValidateAuthCode&amp;amp;iHotelAuthCode=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#iHotel_Authcode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;amp;iHotelLocation=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;iHotel_location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;cache&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;success&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;switch&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;We are sorry, but the code you have entered is not registered. If you have misspelled the authorization code, please try again, otherwise please contact the hotel front desk to receive a new authorization code. &amp;lt;p&amp;gt;&amp;lt;small&amp;gt;The authorization code is not case sensitive.&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt;[IHCC005]&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Maximum number of devices reached for this transaction. Please contact the front desk to obtain an authorization code.(IHCC032)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;c1&quot;&gt;//Code is valid, let's try to authorize it&lt;/span&gt;
+                &lt;span class=&quot;c1&quot;&gt;//alert(&quot;Will use: &quot;+data.location_id);&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#iHotel_Authcode_location_id&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;LoadingShow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#iHotel_AuthCode_Form&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;submit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;c1&quot;&gt;//Code is valid, in an allowed roaming location, let's use it.&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#iHotel_Authcode_location_id&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#iHotel_AuthCode_Form&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;submit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+            &lt;span class=&quot;nl&quot;&gt;default&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;An error occured, please contact the front desk to obtain an authorization code.(IHCC031)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;An error occured, please contact the front desk to obtain an authorization code.(IHCC031)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;I wrote a python script to try all alphanumeric auth codes of length 4 and let it run for about 30 minutes. This was a multithreaded script using 200 threads, making a total of 1.7 million requests. The script stumbled upon &lt;code class=&quot;highlighter-rouge&quot;&gt;ends&lt;/code&gt;, which turned out to be an authorization code that employees of Blue Mountain share to get internet access. I entered this code into the landing page and it worked. Free internet access after a half-hour of password cracking.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;urlparse&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urlparse&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;threading&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Thread&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;httplib&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Queue&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Queue&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;numThreads&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;url1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;http://portal.ihotel.ca/GuestsAPI?function=ValidateAuthCode&amp;amp;iHotelAuthCode=&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;url2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&amp;amp;iHotelLocation=BlueMountainGuests&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;letters&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;e&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;f&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;g&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;h&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;i&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;j&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;k&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;l&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;m&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;n&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;o&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;q&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;r&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;s&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;t&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;u&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;v&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;w&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;x&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;y&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;z&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;1&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;2&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;3&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;4&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;5&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;6&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;7&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;8&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;9&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doWork&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;getStatus&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;doSomethingWithResult&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;task_done&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getStatus&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;httplib&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HTTPConnection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;portal.ihotel.ca&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;function&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;ValidateAuthCode&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;iHotelAuthCode&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;iHotelLocation&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;BlueMountainGuests&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;GET&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/GuestsAPI?function=ValidateAuthCode&amp;amp;iHotelAuthCode=&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&amp;amp;iHotelLocation=BlueMountainGuests&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;res&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getresponse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;close&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;error&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doSomethingWithResult&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Invalid&quot;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;q&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Queue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numThreads&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numThreads&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Thread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;doWork&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;daemon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;letters&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;put&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2016/09/10/how-i-got-free-wi-fi-at-a-hotel.html&quot;;
+    this.page.identifier = &quot;/2016/09/10/how-i-got-free-wi-fi-at-a-hotel&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.</summary></entry><entry><title type="html">My Time at Pivotal Labs</title><link href="http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html" rel="alternate" type="text/html" title="My Time at Pivotal Labs" /><published>2014-09-03T00:00:00-07:00</published><updated>2014-09-03T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/2014/09/03/pivotal-labs</id><content type="html" xml:base="http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html">&lt;p&gt;Overall, I had an awesome time over the last 4 months.  I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.&lt;/p&gt;
+
+&lt;h2 id=&quot;orientation&quot;&gt;Orientation&lt;/h2&gt;
+
+&lt;p&gt;On the first day we learned how Xtreme Labs became Pivotal Labs, and then how Pivotal Labs was a part of a larger organization, Pivotal. For our first week, we weren’t assigned to any project. We were told to create an app on a platform of our choice, which consumes a REST API. The app must display information in a list format, and load it asynchronously. As a bonus, we have to persist the data. I chose to learn iOS, but after 3 days, I finished my basic app and got bored, so I made another one in Android. We also had to test our app using a framework made by Pivotal. These include, Robolectric (Android), Cedar (iOS), and Jasmine (Javascript).&lt;/p&gt;
+
+&lt;h2 id=&quot;culture&quot;&gt;Culture&lt;/h2&gt;
+
+&lt;h3 id=&quot;lunch-and-learns&quot;&gt;Lunch and Learns&lt;/h3&gt;
+&lt;p&gt;Every Tuesday the company had a Lunch and Learn, where lunch was catered and a speaker was invited to talk to us about a relevant topic. These talks were a mixture of technical and business. Some topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Money management&lt;/li&gt;
+  &lt;li&gt;How to market your app&lt;/li&gt;
+  &lt;li&gt;TDD with Robolectric&lt;/li&gt;
+  &lt;li&gt;MVVM on Android&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pair-programming&quot;&gt;Pair Programming&lt;/h3&gt;
+&lt;p&gt;Every developer at Pivotal Labs works at a pairing station. Each pairing station has one computer, two duplicate monitors, two keyboards, and two mice. At any given time, only one person can control the computer. This allows for a constant code review by the person who isn’t typing. At first, it’s difficult to grasp the idea that you are not in control of your computer. At the beginning, it frustrated me too. Later on, you become so used to it that it’s hard to code without someone there to tell you you’re on the right path. Code quality significantly increases since every line has been written with at least two pairs of eyes on it. Finally, pair programming increases productivity despite the fact that only 1 out of 2 people can type. There’s no time to screw around when someone is always there watching your screen.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-tools&quot;&gt;The Tools&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pivotal Tracker&lt;/strong&gt;, our story management tool.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Robolectric&lt;/strong&gt;, an Android testing framework developed by Pivotal Labs.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Travis CI&lt;/strong&gt; for continuous integration.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Android Studio&lt;/strong&gt; for our Android IDE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;application-process&quot;&gt;Application Process&lt;/h2&gt;
+
+&lt;p&gt;The process started with a written test, which consisted of only 3 questions:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You are given a staircase with &lt;strong&gt;n&lt;/strong&gt; number of steps. With each stride you take,
+you can either cover 1 step, or 2 steps. How many different ways can you climb the staircase?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Determine whether two rectangles are intersecting. (You are given the coordinates of all vertices of the rectangles)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What notable projects have you worked on in the past?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/2014/09/03/pivotal-labs.html&quot;;
+    this.page.identifier = &quot;/2014/09/03/pivotal-labs&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><category term="co-op" /><category term="pivotal" /><summary type="html">Overall, I had an awesome time over the last 4 months. I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.</summary></entry></feed>
