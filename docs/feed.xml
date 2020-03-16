@@ -1,4 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-15T13:04:28-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/resume-tips/">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-16T12:50:10-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 2: The Interview</title><link href="http://blog.sahiljain.ca/interview-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 2: The Interview" /><published>2020-03-15T00:00:00-07:00</published><updated>2020-03-15T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/interview-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/interview-tips/">&lt;p&gt;I participated in over 70 interviews during my time at Waterloo. I had 6
+internships, and had to interview for 5 of them. Through these many interviews,
+I found a pattern in the interview structure, what they wanted to hear, and how
+people studied for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-interview-structure&quot;&gt;The Interview Structure&lt;/h2&gt;
+
+&lt;p&gt;Interviews are weird. They’re very formulaic, but fortunately this makes them
+easy to prepare for. The interviewer is not trying to get to know you
+personally. The interview is simply a time to gather certain signals about you,
+and relay those signals to those in charge of hiring. The structure looks like
+this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;intro&lt;/li&gt;
+  &lt;li&gt;(optional) behavioral question&lt;/li&gt;
+  &lt;li&gt;technical question&lt;/li&gt;
+  &lt;li&gt;technical question follow-up&lt;/li&gt;
+  &lt;li&gt;time for you to ask questions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-intro&quot;&gt;The Intro&lt;/h1&gt;
+
+&lt;p&gt;The interview starts with the interviewer introducing themselves, describing the
+company, and asking you if you need to use the bathroom before the interview
+starts. The purpose of the intro is to calm you down. Save any questions you
+have for the end, to leave as much time as possible for the actual interview.
+Often I will be asked the classic “tell me about yourself”. Be concise with
+this. The interviewer is probably not going to care about your answer, and is just
+asking you in order to calm you down. The interview will be focused on
+the technical question. Don’t try to impress them by telling, impress them by
+showing.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-rarely-asked-behavioral-question&quot;&gt;The (Rarely Asked) Behavioral Question&lt;/h1&gt;
+
+&lt;p&gt;I rarely get asked a non-technical question during an interview, but if I do, it
+is usually “tell me about a challenge you faced recently and how you overcame
+it”. I have no advice for you here, other than to prepare the answer
+beforehand.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-technical-question&quot;&gt;The Technical Question&lt;/h1&gt;
+
+&lt;p&gt;The interviewer doesn’t care if you solve the question or not. They are simply
+looking to gather certain signals about how you work. The signals they look
+for are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Do you ask clarifying questions?&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Once you are told the technical question, do not immediately start solving
+it. Often, the interviewer will intentionally leave out important details and
+want you to ask for clarification. It’s important to ask questions for two
+reasons: first, it shows that you have a collaborative attitude, and are not
+afraid to ask for help. Second, it shows that you are able to work with
+vague requirements and can ask the right questions to specify them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Can you accept a hint?&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;When the interviewer gives you a hint, take it. First, it shows you are able
+to adapt to new information and think on your feet. Second, it shows that you
+are able to accept help from others.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Can you test and debug?&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You aren’t finished answering the technical question once you’re done
+writing on the whiteboard. You still have to test your program on example
+inputs, and debug your program if you find a bug. Before you start thinking
+about a solution, I would suggest writing some example test cases on the
+whiteboard. Companies love an intern that values testing.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Are you aware of time and space complexity?&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Don’t wait for the interviewer to ask you about the time complexity of your
+program. Once you’re done writing your code and testing your code, offer up
+the time and space complexity yourself. This initiative shows that you think
+about complexity proactively.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-technical-question-follow-up&quot;&gt;The Technical Question Follow-Up&lt;/h1&gt;
+
+&lt;p&gt;It’s rare to be asked just one technical question in a 45-minute interview.
+Either the interviewer will ask you a completely different question, or they
+will add a challenge to the original question. Often, the challenge will be a
+tighter time-complexity constraint. Often, the time-complexity is a hint to the
+solution. If the interviewer tells you it can be solved in linear time, you know
+you can’t have nested loops or recursive calls.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-questions-to-ask-them&quot;&gt;What Questions To Ask Them&lt;/h1&gt;
+
+&lt;p&gt;The interview will end with a chance for you to ask questions. This is a good
+opportunity to show your interest in the company. Research the company
+beforehand, learn about what makes them unique, and ask a question about
+something you find genuinely interesting about the company. If there’s nothing
+about the company you’re curious about, you either didn’t do enough research, or
+you’re not that interested anyways.&lt;/p&gt;
+
+&lt;h2 id=&quot;before-the-interview&quot;&gt;Before the Interview&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Know your resume. See my &lt;a href=&quot;/resume-tips/&quot;&gt;previous post&lt;/a&gt;
+ for resume advice.&lt;/li&gt;
+  &lt;li&gt;Bring a copy of your resume to the interview.&lt;/li&gt;
+  &lt;li&gt;Bring spare whiteboard markers, pencils, and paper to the interview.&lt;/li&gt;
+  &lt;li&gt;Practice questions on a whiteboard, from HackerRank, LeetCode, GeeksForGeeks,
+etc.&lt;/li&gt;
+  &lt;li&gt;Read up on common algorithms and data structures.&lt;/li&gt;
+  &lt;li&gt;Practice time-complexity and space-complexity analysis.&lt;/li&gt;
+  &lt;li&gt;Big companies like Google and Facebook are known to value syntactically
+correct code. Pick 1 popular language to study (C++, Java, or Python), and learn
+to code in it with correct syntax without an IDE.&lt;/li&gt;
+  &lt;li&gt;Don’t dress up. Don’t follow &lt;a href=&quot;https://uwaterloo.ca/beyond-ideas/stories/tips-advice/how-dress-for-job-interview&quot;&gt;Waterloo’s advice on how to
+dress&lt;/a&gt;.
+You want the interviewer to be able to picture you on the job. Dress how you
+would on the actual job. Convey your professionalism with your demeanor, not
+your wardrobe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
+
+&lt;p&gt;Interviews are weird. They’re very focused on the technical question. Technical
+questions are used to gather signals about you. Make sure you send those
+signals, and don’t just answer the question. Research the company so you can ask
+them interesting and specific questions at the end. Know your resume, bring
+materials to the interview, and don’t dress up.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/interview-tips/&quot;;
+    this.page.identifier = &quot;/interview-tips&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">I participated in over 70 interviews during my time at Waterloo. I had 6 internships, and had to interview for 5 of them. Through these many interviews, I found a pattern in the interview structure, what they wanted to hear, and how people studied for them.</summary></entry><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/resume-tips/">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
 have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot
 of resumes over the years and I’ve seen that good resumes follow a certain pattern.&lt;/p&gt;
 
