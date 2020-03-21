@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-16T12:50:10-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 2: The Interview</title><link href="http://blog.sahiljain.ca/interview-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 2: The Interview" /><published>2020-03-15T00:00:00-07:00</published><updated>2020-03-15T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/interview-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/interview-tips/">&lt;p&gt;I participated in over 70 interviews during my time at Waterloo. I had 6
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2020-03-21T14:35:08-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">Waterloo Co-op Series Part 3: Choosing Where to Apply</title><link href="http://blog.sahiljain.ca/choosing-jobs/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 3: Choosing Where to Apply" /><published>2020-03-18T00:00:00-07:00</published><updated>2020-03-18T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/choosing-jobs</id><content type="html" xml:base="http://blog.sahiljain.ca/choosing-jobs/">&lt;ul&gt;
+  &lt;li&gt;Don’t wait until the last day to apply to jobs
+    &lt;ul&gt;
+      &lt;li&gt;My friend made this mistake, and then realized he was off by one day. He was
+  not able to apply to any jobs and had to return to his last co-op.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Maintain a 35/10/5 ratio when applying to the 50 jobs
+    &lt;ul&gt;
+      &lt;li&gt;35 should be low-risk, jobs where you’re pretty confident you could get an
+  offer&lt;/li&gt;
+      &lt;li&gt;10 should be medium-risk, jobs where you might get an offer, you might not&lt;/li&gt;
+      &lt;li&gt;5 should be high-risk, jobs where you likely won’t get an offer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Don’t apply to any job where you know you won’t accept the offer
+    &lt;ul&gt;
+      &lt;li&gt;Your “safety jobs” should still be somewhere you could see yourself working&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Don’t focus too much on the money, but also keep in mind that money is a proxy
+for how much they care about their interns. For example, the Social+Capital
+portfolio of companies pays their Waterloo interns a lot, and they also have a
+great internship program. The founder of Social+Capital is a Waterloo grad.&lt;/li&gt;
+  &lt;li&gt;Don’t save your applications for the second round. Use them all up in the
+first round. The jobs are generally better.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  var disqus_config = function () {
+    this.page.url = &quot;http://blog.sahiljain.ca/choosing-jobs/&quot;;
+    this.page.identifier = &quot;/choosing-jobs&quot;;
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//sahiljainblog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
+&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Don’t wait until the last day to apply to jobs My friend made this mistake, and then realized he was off by one day. He was not able to apply to any jobs and had to return to his last co-op. Maintain a 35/10/5 ratio when applying to the 50 jobs 35 should be low-risk, jobs where you’re pretty confident you could get an offer 10 should be medium-risk, jobs where you might get an offer, you might not 5 should be high-risk, jobs where you likely won’t get an offer Don’t apply to any job where you know you won’t accept the offer Your “safety jobs” should still be somewhere you could see yourself working Don’t focus too much on the money, but also keep in mind that money is a proxy for how much they care about their interns. For example, the Social+Capital portfolio of companies pays their Waterloo interns a lot, and they also have a great internship program. The founder of Social+Capital is a Waterloo grad. Don’t save your applications for the second round. Use them all up in the first round. The jobs are generally better.</summary></entry><entry><title type="html">Waterloo Co-op Series Part 2: The Interview</title><link href="http://blog.sahiljain.ca/interview-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 2: The Interview" /><published>2020-03-15T00:00:00-07:00</published><updated>2020-03-15T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/interview-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/interview-tips/">&lt;p&gt;I participated in over 70 interviews during my time at Waterloo. I had 6
 internships, and had to interview for 5 of them. Through these many interviews,
 I found a pattern in the interview structure, what they wanted to hear, and how
 people studied for them.&lt;/p&gt;
