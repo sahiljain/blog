@@ -1,290 +1,290 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://blog.sahiljain.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.sahiljain.ca/" rel="alternate" type="text/html" /><updated>2022-08-12T01:49:37-07:00</updated><id>http://blog.sahiljain.ca/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I'm Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">My Strategies for Weight Loss</title><link href="http://blog.sahiljain.ca/weight-loss/" rel="alternate" type="text/html" title="My Strategies for Weight Loss" /><published>2022-08-11T00:00:00-07:00</published><updated>2022-08-11T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/weight-loss</id><content type="html" xml:base="http://blog.sahiljain.ca/weight-loss/">&lt;p&gt;I started the year at 171lbs, and 7 months later I’m now at 144lbs. I’ve lost
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-18T18:50:07-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sahil Jain’s Blog</title><subtitle>I&apos;m Sahil, a Software Engineering grad from the University of Waterloo.</subtitle><entry><title type="html">My Strategies for Weight Loss</title><link href="http://localhost:4000/weight-loss/" rel="alternate" type="text/html" title="My Strategies for Weight Loss" /><published>2022-08-11T00:00:00-07:00</published><updated>2022-08-11T00:00:00-07:00</updated><id>http://localhost:4000/weight-loss</id><content type="html" xml:base="http://localhost:4000/weight-loss/"><![CDATA[<p>I started the year at 171lbs, and 7 months later I’m now at 144lbs. I’ve lost
 27lbs in 29 weeks, which means I’ve lost around 1lb/week. I’ve learned a lot
 about diet and exercise, and I wanted to document all the diet strategies I’ve
-learned.&lt;/p&gt;
+learned.</p>
 
-&lt;h1 id=&quot;my-motivation-to-lose-weight&quot;&gt;My Motivation to Lose Weight&lt;/h1&gt;
+<h1 id="my-motivation-to-lose-weight">My Motivation to Lose Weight</h1>
 
-&lt;p&gt;My only motivation to lose weight is for the aesthetic of it. I want to be proud
+<p>My only motivation to lose weight is for the aesthetic of it. I want to be proud
 of my physique, and view myself as someone who works out and takes care of his
 appearance. I’ve gained and lost weight in the past, but I’ve never been at a 
-very low body fat percentage.&lt;/p&gt;
+very low body fat percentage.</p>
 
-&lt;h1 id=&quot;step-1-counting-calories-and-macronutrient-intake&quot;&gt;Step 1: Counting Calories and Macronutrient Intake&lt;/h1&gt;
+<h1 id="step-1-counting-calories-and-macronutrient-intake">Step 1: Counting Calories and Macronutrient Intake</h1>
 
-&lt;p&gt;The first step for me was to get a sense of how many calories I eat in a day
+<p>The first step for me was to get a sense of how many calories I eat in a day
 without trying to lose weight. I logged everything I ate through MyFitnessPal
 and I learned that certain foods were more caloric than I expected (bread,
 pasta, etc) and certain foods were less caloric (fruits and vegetables). This
 also got me in the habit of tracking what I eat and paying attention to portion
-sizes.&lt;/p&gt;
+sizes.</p>
 
-&lt;p&gt;The second step for me was to determine my Total Daily Energy Expenditure using
-a calculator (&lt;a href=&quot;https://tdeecalculator.net/&quot;&gt;this one for example&lt;/a&gt;). For my
+<p>The second step for me was to determine my Total Daily Energy Expenditure using
+a calculator (<a href="https://tdeecalculator.net/">this one for example</a>). For my
 weight and height, my TDEE at the time was 2400 calories. This roughly lined up
-with the calorie intake I measured using MyFitnessPal.&lt;/p&gt;
+with the calorie intake I measured using MyFitnessPal.</p>
 
-&lt;p&gt;The third step was to come up with a calorie goal and a macronutrient goal. A
+<p>The third step was to come up with a calorie goal and a macronutrient goal. A
 pound of fat generally stores 3500 calories, so it takes a daily 500 calorie
 deficit to lose 1lb per week. From the previous step, my TDEE was 2400 calories,
 so my goal was to eat less than 1900 calories. For macronutrients, a gram of
 protein contains 4 calories of energy, a gram of carbs contains 4 calories, and
-a gram of fat contains 9 calories. It’s a good idea to eat &lt;a href=&quot;https://www.youtube.com/watch?v=nkIKesKHIIE&amp;amp;t=50s&quot;&gt;1 gram of protein per
-pound of lean body mass&lt;/a&gt;, and to
-eat a minimum of &lt;a href=&quot;https://www.youtube.com/watch?v=SLGEDf9Ugi0&quot;&gt;0.3 grams of fat per pound of body
-weight&lt;/a&gt; to maintain hormone
+a gram of fat contains 9 calories. It’s a good idea to eat <a href="https://www.youtube.com/watch?v=nkIKesKHIIE&amp;t=50s">1 gram of protein per
+pound of lean body mass</a>, and to
+eat a minimum of <a href="https://www.youtube.com/watch?v=SLGEDf9Ugi0">0.3 grams of fat per pound of body
+weight</a> to maintain hormone
 function. This puts my macronutrient goal at ~140 grams of protein, ~50 grams of
 fat, and ~220 grams of carbs. The most important goal is the calories, next is
 the protein, and the breakdown of carbs vs fat doesn’t matter too much as long
-as I’m eating a minimum of 50 grams of fat.&lt;/p&gt;
+as I’m eating a minimum of 50 grams of fat.</p>
 
-&lt;p&gt;Beware that losing weight faster than 1lb/week increases the risk of rebounding,
+<p>Beware that losing weight faster than 1lb/week increases the risk of rebounding,
 since your body has less time to adapt to your new weight, and your diet is
-likely harder to sustain.&lt;/p&gt;
+likely harder to sustain.</p>
 
-&lt;h1 id=&quot;step-2-getting-enough-protein-without-eating-too-many-calories&quot;&gt;Step 2: Getting Enough Protein Without Eating Too Many Calories&lt;/h1&gt;
+<h1 id="step-2-getting-enough-protein-without-eating-too-many-calories">Step 2: Getting Enough Protein Without Eating Too Many Calories</h1>
 
-&lt;p&gt;It’s tough getting adequate protein as a vegetarian, and it’s even harder to be
+<p>It’s tough getting adequate protein as a vegetarian, and it’s even harder to be
 in a caloric deficit at the same time. It takes a lot of planning, shopping, and
 cooking to come up with meals that will give me enough protein without excess
 carbs and fat. Lentils and chickpeas have too many carbs, Impossible burgers are
 too fatty, and protein powder tastes bad and isn’t satiating. My rule of thumb
 is that a meal is good if the ratio of proteins to calories is 1:12 or better.
-Here are some meal options that have worked for me:&lt;/p&gt;
+Here are some meal options that have worked for me:</p>
 
-&lt;h4 id=&quot;breakfast-options&quot;&gt;Breakfast Options&lt;/h4&gt;
+<h4 id="breakfast-options">Breakfast Options</h4>
 
-&lt;ol&gt;
-  &lt;li&gt;Kodiak Oatmeal with Milk
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://kodiakcakes.com/products/maple-and-brown-sugar-oatmeal-packets&quot;&gt;Kodiak
-   Oatmeal&lt;/a&gt; is 190cal and 12g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://fairlife.com/ultra-filtered-milk/fat-free-skim-milk/&quot;&gt;Fairlife Milk&lt;/a&gt; is 27cal and 4g protein for 1/3rd cup&lt;/li&gt;
-      &lt;li&gt;Total: 217cal with 16g protein (ratio: 1 to 13)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Catalina Crunch Cereal with Fat-Free Milk
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://us.catalinacrunch.com/products/cereal&quot;&gt;Catalina Crunch Cereal&lt;/a&gt; is
-   110cal and 11g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://fairlife.com/ultra-filtered-milk/fat-free-skim-milk/&quot;&gt;Fairlife Milk&lt;/a&gt; is 40cal and 6g protein for 1/2 cup&lt;/li&gt;
-      &lt;li&gt;Total: 150cal and 17g protein (ratio: 1 to 9)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Veggie Sausage and Ketchup
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.morningstarfarms.com/en_US/products/vegetarian-breakfast-foods/morningstar-farms-original-sausage-patties-product.html&quot;&gt;MorningStar Veggie
-   Sausage&lt;/a&gt; is 160cal and 18g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.waldenfarms.com/product/zero-calorie-ketchup/&quot;&gt;Calorie-free
-   ketchup&lt;/a&gt; is 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;Total: 160cal with 18g protein (ratio: 1 to 9)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;JUST Egg Omelette
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.ju.st/eat/just-egg&quot;&gt;JUST Egg&lt;/a&gt; is 187cal and 13g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.walmart.com/ip/Kraft-Mozzarella-Fat-Free-Shredded-Cheese-7-oz-Bag/46791733&quot;&gt;Fat-free
-   Mozzarella&lt;/a&gt; is 45cal and 9g protein&lt;/li&gt;
-      &lt;li&gt;Spinach is 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;Chives is 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;Total: 232cal and 22g protein (ratio: 1 to 11)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>Kodiak Oatmeal with Milk
+    <ul>
+      <li><a href="https://kodiakcakes.com/products/maple-and-brown-sugar-oatmeal-packets">Kodiak
+   Oatmeal</a> is 190cal and 12g protein</li>
+      <li><a href="https://fairlife.com/ultra-filtered-milk/fat-free-skim-milk/">Fairlife Milk</a> is 27cal and 4g protein for 1/3rd cup</li>
+      <li>Total: 217cal with 16g protein (ratio: 1 to 13)</li>
+    </ul>
+  </li>
+  <li>Catalina Crunch Cereal with Fat-Free Milk
+    <ul>
+      <li><a href="https://us.catalinacrunch.com/products/cereal">Catalina Crunch Cereal</a> is
+   110cal and 11g protein</li>
+      <li><a href="https://fairlife.com/ultra-filtered-milk/fat-free-skim-milk/">Fairlife Milk</a> is 40cal and 6g protein for 1/2 cup</li>
+      <li>Total: 150cal and 17g protein (ratio: 1 to 9)</li>
+    </ul>
+  </li>
+  <li>Veggie Sausage and Ketchup
+    <ul>
+      <li><a href="https://www.morningstarfarms.com/en_US/products/vegetarian-breakfast-foods/morningstar-farms-original-sausage-patties-product.html">MorningStar Veggie
+   Sausage</a> is 160cal and 18g protein</li>
+      <li><a href="https://www.waldenfarms.com/product/zero-calorie-ketchup/">Calorie-free
+   ketchup</a> is 0cal and 0g protein</li>
+      <li>Total: 160cal with 18g protein (ratio: 1 to 9)</li>
+    </ul>
+  </li>
+  <li>JUST Egg Omelette
+    <ul>
+      <li><a href="https://www.ju.st/eat/just-egg">JUST Egg</a> is 187cal and 13g protein</li>
+      <li><a href="https://www.walmart.com/ip/Kraft-Mozzarella-Fat-Free-Shredded-Cheese-7-oz-Bag/46791733">Fat-free
+   Mozzarella</a> is 45cal and 9g protein</li>
+      <li>Spinach is 0cal and 0g protein</li>
+      <li>Chives is 0cal and 0g protein</li>
+      <li>Total: 232cal and 22g protein (ratio: 1 to 11)</li>
+    </ul>
+  </li>
+</ol>
 
-&lt;h4 id=&quot;lunchdinner-options&quot;&gt;Lunch/Dinner Options&lt;/h4&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.questnutrition.com/collections/pizza/products/cheese-pizza&quot;&gt;Quest Protein
-Pizza&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Total: 650cal and 54g protein (ratio: 1 to 12)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Protein Pasta and Veggie Meatballs
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.barilla.com/en-us/products/pasta/proteinplus/proteinplus-angel-hair&quot;&gt;Barilla Protein
-   Pasta&lt;/a&gt; is 190cal and 10g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.safeway.com/shop/product-details.960565370.html&quot;&gt;MorningStar Veggie
-   Meatballs&lt;/a&gt;
-   are 150cal and 15g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.walmart.com/ip/Kraft-Mozzarella-Fat-Free-Shredded-Cheese-7-oz-Bag/46791733&quot;&gt;Fat-free
-   Mozzarella&lt;/a&gt; is 45cal and 9g protein&lt;/li&gt;
-      &lt;li&gt;Total: 385cal and 34g protein (ratio: 1 to 11)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Daring Chicken Tikka Masala Salad
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.daring.com/products/daring-original-pieces&quot;&gt;Daring Chicken&lt;/a&gt; is
-   90cal and 14g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.safeway.com/shop/product-details.960542029.3132.html&quot;&gt;Tikka Masala
-   Sauce&lt;/a&gt;
-   is 60cal and 1g protein&lt;/li&gt;
-      &lt;li&gt;Spinach is 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;Total: 150cal and 15g protein (ratio: 1 to 10)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sandwich
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://ketoculturebaking.com/pages/bread&quot;&gt;Keto Bread&lt;/a&gt; is 70cal and 8g
-   protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.safeway.com/shop/product-details.960010236.html&quot;&gt;Low-fat
-   Cheddar&lt;/a&gt; is
-   90cal and 8g protein&lt;/li&gt;
-      &lt;li&gt;Condiments (calorie-free ketchup, mustard, pickles, etc) are negligible
-   calories&lt;/li&gt;
-      &lt;li&gt;Total: 160cal and 16g protein (ratio: 1 to 10)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<h4 id="lunchdinner-options">Lunch/Dinner Options</h4>
+<ol>
+  <li><a href="https://www.questnutrition.com/collections/pizza/products/cheese-pizza">Quest Protein
+Pizza</a>
+    <ul>
+      <li>Total: 650cal and 54g protein (ratio: 1 to 12)</li>
+    </ul>
+  </li>
+  <li>Protein Pasta and Veggie Meatballs
+    <ul>
+      <li><a href="https://www.barilla.com/en-us/products/pasta/proteinplus/proteinplus-angel-hair">Barilla Protein
+   Pasta</a> is 190cal and 10g protein</li>
+      <li><a href="https://www.safeway.com/shop/product-details.960565370.html">MorningStar Veggie
+   Meatballs</a>
+   are 150cal and 15g protein</li>
+      <li><a href="https://www.walmart.com/ip/Kraft-Mozzarella-Fat-Free-Shredded-Cheese-7-oz-Bag/46791733">Fat-free
+   Mozzarella</a> is 45cal and 9g protein</li>
+      <li>Total: 385cal and 34g protein (ratio: 1 to 11)</li>
+    </ul>
+  </li>
+  <li>Daring Chicken Tikka Masala Salad
+    <ul>
+      <li><a href="https://www.daring.com/products/daring-original-pieces">Daring Chicken</a> is
+   90cal and 14g protein</li>
+      <li><a href="https://www.safeway.com/shop/product-details.960542029.3132.html">Tikka Masala
+   Sauce</a>
+   is 60cal and 1g protein</li>
+      <li>Spinach is 0cal and 0g protein</li>
+      <li>Total: 150cal and 15g protein (ratio: 1 to 10)</li>
+    </ul>
+  </li>
+  <li>Sandwich
+    <ul>
+      <li><a href="https://ketoculturebaking.com/pages/bread">Keto Bread</a> is 70cal and 8g
+   protein</li>
+      <li><a href="https://www.safeway.com/shop/product-details.960010236.html">Low-fat
+   Cheddar</a> is
+   90cal and 8g protein</li>
+      <li>Condiments (calorie-free ketchup, mustard, pickles, etc) are negligible
+   calories</li>
+      <li>Total: 160cal and 16g protein (ratio: 1 to 10)</li>
+    </ul>
+  </li>
+</ol>
 
-&lt;h4 id=&quot;dessert-options&quot;&gt;Dessert Options&lt;/h4&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eatlegendary.com/collections/pastries/products/tasty-pastry-cake-style-strawberry-8-pastries-on-the-go&quot;&gt;Tasty
-Pastry&lt;/a&gt; is 180cal and 20g protein (ratio: 1 to 9)&lt;/li&gt;
-  &lt;li&gt;Greek Yogurt and Berries
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.safeway.com/shop/product-details.960050143.html&quot;&gt;Fat-free Greek
-   Yogurt&lt;/a&gt; is
-   90cal and 18g protein&lt;/li&gt;
-      &lt;li&gt;Strawberries are 16cal and 0g protein for 4 berries&lt;/li&gt;
-      &lt;li&gt;Splenda or calorie-free maple syrup to add sweetness are 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;Total: 106cal and 18g protein (ratio: 1 to 6)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+<h4 id="dessert-options">Dessert Options</h4>
+<ol>
+  <li><a href="https://www.eatlegendary.com/collections/pastries/products/tasty-pastry-cake-style-strawberry-8-pastries-on-the-go">Tasty
+Pastry</a> is 180cal and 20g protein (ratio: 1 to 9)</li>
+  <li>Greek Yogurt and Berries
+    <ul>
+      <li><a href="https://www.safeway.com/shop/product-details.960050143.html">Fat-free Greek
+   Yogurt</a> is
+   90cal and 18g protein</li>
+      <li>Strawberries are 16cal and 0g protein for 4 berries</li>
+      <li>Splenda or calorie-free maple syrup to add sweetness are 0cal and 0g protein</li>
+      <li>Total: 106cal and 18g protein (ratio: 1 to 6)</li>
+    </ul>
+  </li>
+</ol>
 
-&lt;h4 id=&quot;snack-options&quot;&gt;Snack Options&lt;/h4&gt;
-&lt;ol&gt;
-  &lt;li&gt;Egg White Wrap with Cheese and Mustard
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.safeway.com/shop/product-details.960539903.html&quot;&gt;Egg White Wrap&lt;/a&gt; is 25cal and 5g protein&lt;/li&gt;
-      &lt;li&gt;Mustard is 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.safeway.com/shop/product-details.960010236.html&quot;&gt;Low-fat Cheddar&lt;/a&gt; 
-  is 90cal and 8g protein&lt;/li&gt;
-      &lt;li&gt;Mustard is 0cal and 0g protein&lt;/li&gt;
-      &lt;li&gt;Total: 115cal and 13g protein (ratio: 1 to 9)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.questnutrition.com/collections/protein-chips&quot;&gt;Quest Protein
-Chips&lt;/a&gt; is 140cal
-and 18g protein (ratio: 1 to 8)&lt;/li&gt;
-&lt;/ol&gt;
+<h4 id="snack-options">Snack Options</h4>
+<ol>
+  <li>Egg White Wrap with Cheese and Mustard
+    <ul>
+      <li><a href="https://www.safeway.com/shop/product-details.960539903.html">Egg White Wrap</a> is 25cal and 5g protein</li>
+      <li>Mustard is 0cal and 0g protein</li>
+      <li><a href="https://www.safeway.com/shop/product-details.960010236.html">Low-fat Cheddar</a> 
+  is 90cal and 8g protein</li>
+      <li>Mustard is 0cal and 0g protein</li>
+      <li>Total: 115cal and 13g protein (ratio: 1 to 9)</li>
+    </ul>
+  </li>
+  <li><a href="https://www.questnutrition.com/collections/protein-chips">Quest Protein
+Chips</a> is 140cal
+and 18g protein (ratio: 1 to 8)</li>
+</ol>
 
-&lt;h1 id=&quot;step-3-managing-hunger&quot;&gt;Step 3: Managing Hunger&lt;/h1&gt;
+<h1 id="step-3-managing-hunger">Step 3: Managing Hunger</h1>
 
-&lt;p&gt;To feel fuller, we want to optimize for food that’s as filling as possible per
+<p>To feel fuller, we want to optimize for food that’s as filling as possible per
 calorie. In descending order of satiety to calorie, we should have more water,
-fibre, and protein. For example, have more:&lt;/p&gt;
+fibre, and protein. For example, have more:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Water (diet sodas, calorie-free drinks)&lt;/li&gt;
-  &lt;li&gt;Fibre (popcorn, seaweed snack, vegetables, fruit)&lt;/li&gt;
-  &lt;li&gt;Protein (whey protein, pea protein, soy protein)&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Water (diet sodas, calorie-free drinks)</li>
+  <li>Fibre (popcorn, seaweed snack, vegetables, fruit)</li>
+  <li>Protein (whey protein, pea protein, soy protein)</li>
+</ul>
 
-&lt;p&gt;On the opposite end, here are the least filling foods in order:&lt;/p&gt;
+<p>On the opposite end, here are the least filling foods in order:</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Sugar (candy, baked goods)&lt;/li&gt;
-  &lt;li&gt;Low-fibre carbs (rice, white bread)&lt;/li&gt;
-  &lt;li&gt;Fat (french fries, whip cream)&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>Sugar (candy, baked goods)</li>
+  <li>Low-fibre carbs (rice, white bread)</li>
+  <li>Fat (french fries, whip cream)</li>
+</ol>
 
-&lt;p&gt;There are certain foods known to suppress grehlin, the hunger hormone:&lt;/p&gt;
+<p>There are certain foods known to suppress grehlin, the hunger hormone:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Caffeine&lt;/li&gt;
-  &lt;li&gt;Watermelon&lt;/li&gt;
-  &lt;li&gt;Omega 3 fatty acids (algae oil supplement)&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Caffeine</li>
+  <li>Watermelon</li>
+  <li>Omega 3 fatty acids (algae oil supplement)</li>
+</ul>
 
-&lt;p&gt;Some other strategies to reduce hunger are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Get enough sleep&lt;/li&gt;
-  &lt;li&gt;Delay your first meal as much as possible, and stop eating 2-3 hours before
-sleeping&lt;/li&gt;
-&lt;/ul&gt;
+<p>Some other strategies to reduce hunger are:</p>
+<ul>
+  <li>Get enough sleep</li>
+  <li>Delay your first meal as much as possible, and stop eating 2-3 hours before
+sleeping</li>
+</ul>
 
-&lt;h1 id=&quot;step-4-managing-cravings&quot;&gt;Step 4: Managing Cravings&lt;/h1&gt;
+<h1 id="step-4-managing-cravings">Step 4: Managing Cravings</h1>
 
-&lt;p&gt;Sometimes (many times per week) I’ll want food that doesn’t fit my
+<p>Sometimes (many times per week) I’ll want food that doesn’t fit my
 protein-to-calorie ratio requirement, like desserts and fast food. Instead of
 cutting these foods out, I like to find a close alternative that fits my macros
-better:&lt;/p&gt;
+better:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Peanut butter and Nutella sandwich
-    &lt;ul&gt;
-      &lt;li&gt;Replace the peanut butter with &lt;a href=&quot;https://pbfit.com/&quot;&gt;PB Fit&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Replace the bread with &lt;a href=&quot;https://ketoculturebaking.com/pages/bread&quot;&gt;Keto Bread&lt;/a&gt; or &lt;a href=&quot;https://www.safeway.com/shop/product-details.960539903.html&quot;&gt;Egg White Wraps&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Replace the Nutella with &lt;a href=&quot;https://www.waldenfarms.com/product/zero-calorie-chocolate-syrup/&quot;&gt;calorie-free chocolate
-  sauce&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ice cream
-    &lt;ul&gt;
-      &lt;li&gt;Have greek yogurt with berries and 0cal maple syrup instead&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Peanut butter and Nutella sandwich
+    <ul>
+      <li>Replace the peanut butter with <a href="https://pbfit.com/">PB Fit</a></li>
+      <li>Replace the bread with <a href="https://ketoculturebaking.com/pages/bread">Keto Bread</a> or <a href="https://www.safeway.com/shop/product-details.960539903.html">Egg White Wraps</a></li>
+      <li>Replace the Nutella with <a href="https://www.waldenfarms.com/product/zero-calorie-chocolate-syrup/">calorie-free chocolate
+  sauce</a></li>
+    </ul>
+  </li>
+  <li>Ice cream
+    <ul>
+      <li>Have greek yogurt with berries and 0cal maple syrup instead</li>
+    </ul>
+  </li>
+</ul>
 
-&lt;p&gt;If an alternative food is not possible, have the food you’re craving but eat
+<p>If an alternative food is not possible, have the food you’re craving but eat
 some protein alongside it. If you’re craving chocolate, crush it and mix it into
 greek yogurt. If you’re craving french fries, have it with 0cal ketchup and a
-protein shake.&lt;/p&gt;
+protein shake.</p>
 
-&lt;h1 id=&quot;step-5-maintaining-a-high-metabolism&quot;&gt;Step 5: Maintaining a High Metabolism&lt;/h1&gt;
-&lt;p&gt;It’s a myth that being in a caloric deficit will put you in starvation mode, and
+<h1 id="step-5-maintaining-a-high-metabolism">Step 5: Maintaining a High Metabolism</h1>
+<p>It’s a myth that being in a caloric deficit will put you in starvation mode, and
 that your metabolism will drop to the point where you’re no longer in a deficit.
 While this isn’t true, there are a few ways your metabolism decreases while
-dieting:&lt;/p&gt;
+dieting:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Less food leads to more lethargy, so you move around less and burn less
-calories&lt;/li&gt;
-  &lt;li&gt;Losing weight directly reduces your energy expenditure&lt;/li&gt;
-  &lt;li&gt;Your digestive system burns energy to digest food, and eating less means
-burning less energy&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Less food leads to more lethargy, so you move around less and burn less
+calories</li>
+  <li>Losing weight directly reduces your energy expenditure</li>
+  <li>Your digestive system burns energy to digest food, and eating less means
+burning less energy</li>
+</ul>
 
-&lt;p&gt;To counteract these, try:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Counting your steps and walking a minimum of 10k steps&lt;/li&gt;
-  &lt;li&gt;Adapt your calorie goals to your new weight every month&lt;/li&gt;
-  &lt;li&gt;Eat a lot of fibre and protein to keep your digestive system active&lt;/li&gt;
-&lt;/ul&gt;
+<p>To counteract these, try:</p>
+<ul>
+  <li>Counting your steps and walking a minimum of 10k steps</li>
+  <li>Adapt your calorie goals to your new weight every month</li>
+  <li>Eat a lot of fibre and protein to keep your digestive system active</li>
+</ul>
 
-&lt;h1 id=&quot;step-5-adapting-my-goals&quot;&gt;Step 5: Adapting my Goals&lt;/h1&gt;
+<h1 id="step-5-adapting-my-goals">Step 5: Adapting my Goals</h1>
 
-&lt;p&gt;As you lose weight, your metabolism will decrease as you have less tissue to
+<p>As you lose weight, your metabolism will decrease as you have less tissue to
 maintain and provide energy to. You should adapt your TDEE calculation for every
 few pounds that you lose in order to maintain a regular loss rate of 1lb/week.
 As you get leaner, protein will become more and more important to maintain
 muscle, so consider increasing the amount of protein while decreasing the amount
-of calories. Currently I’m aiming for 150g of protein and 1700cal per day.&lt;/p&gt;
+of calories. Currently I’m aiming for 150g of protein and 1700cal per day.</p>
 
-&lt;h1 id=&quot;what-ive-gained-from-losing-weight&quot;&gt;What I’ve Gained from Losing Weight&lt;/h1&gt;
+<h1 id="what-ive-gained-from-losing-weight">What I’ve Gained from Losing Weight</h1>
 
-&lt;p&gt;I thought that losing weight would give me more energy, but it’s drained way
+<p>I thought that losing weight would give me more energy, but it’s drained way
 more energy than it’s given me. Consistenly being in a caloric deficit is tough
 mentally (I have to manage my hunger, forego food that I want for food that fits
 my macros, etc) and physically (makes it tougher to recover from weightlifting,
-harder to sleep).&lt;/p&gt;
+harder to sleep).</p>
 
-&lt;p&gt;I feel better about my physique than I ever have, and I’m even more motivated to
+<p>I feel better about my physique than I ever have, and I’m even more motivated to
 continue bodybuilding. Even though most diets fail and have a rebound, I’m
 confident I can keep the fat off by intuitively eating, monitoring my weight,
 and counting calories once in a while so I get a sense of what my daily caloric
-intake is.&lt;/p&gt;
+intake is.</p>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/weight-loss/&quot;;
-    this.page.identifier = &quot;/weight-loss&quot;;
+    this.page.url = "http://blog.sahiljain.ca/weight-loss/";
+    this.page.identifier = "/weight-loss";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -292,45 +292,45 @@ intake is.&lt;/p&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">I started the year at 171lbs, and 7 months later I’m now at 144lbs. I’ve lost 27lbs in 29 weeks, which means I’ve lost around 1lb/week. I’ve learned a lot about diet and exercise, and I wanted to document all the diet strategies I’ve learned.</summary></entry><entry><title type="html">Waterloo Co-op Series Part 3: Choosing Where to Apply</title><link href="http://blog.sahiljain.ca/choosing-jobs/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 3: Choosing Where to Apply" /><published>2020-03-18T00:00:00-07:00</published><updated>2020-03-18T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/choosing-jobs</id><content type="html" xml:base="http://blog.sahiljain.ca/choosing-jobs/">&lt;ul&gt;
-  &lt;li&gt;Don’t wait until the last day to apply to jobs
-    &lt;ul&gt;
-      &lt;li&gt;My friend made this mistake, and then realized he was off by one day. He was
-  not able to apply to any jobs and had to return to his last co-op.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Maintain a 35/10/5 ratio when applying to the 50 jobs
-    &lt;ul&gt;
-      &lt;li&gt;35 should be low-risk, jobs where you’re pretty confident you could get an
-  offer&lt;/li&gt;
-      &lt;li&gt;10 should be medium-risk, jobs where you might get an offer, you might not&lt;/li&gt;
-      &lt;li&gt;5 should be high-risk, jobs where you likely won’t get an offer&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Don’t apply to any job where you know you won’t accept the offer
-    &lt;ul&gt;
-      &lt;li&gt;Your “safety jobs” should still be somewhere you could see yourself working&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Don’t focus too much on the money, but also keep in mind that money is a proxy
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[I started the year at 171lbs, and 7 months later I’m now at 144lbs. I’ve lost 27lbs in 29 weeks, which means I’ve lost around 1lb/week. I’ve learned a lot about diet and exercise, and I wanted to document all the diet strategies I’ve learned.]]></summary></entry><entry><title type="html">Waterloo Co-op Series Part 3: Choosing Where to Apply</title><link href="http://localhost:4000/choosing-jobs/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 3: Choosing Where to Apply" /><published>2020-03-18T00:00:00-07:00</published><updated>2020-03-18T00:00:00-07:00</updated><id>http://localhost:4000/choosing-jobs</id><content type="html" xml:base="http://localhost:4000/choosing-jobs/"><![CDATA[<ul>
+  <li>Don’t wait until the last day to apply to jobs
+    <ul>
+      <li>My friend made this mistake, and then realized he was off by one day. He was
+  not able to apply to any jobs and had to return to his last co-op.</li>
+    </ul>
+  </li>
+  <li>Maintain a 35/10/5 ratio when applying to the 50 jobs
+    <ul>
+      <li>35 should be low-risk, jobs where you’re pretty confident you could get an
+  offer</li>
+      <li>10 should be medium-risk, jobs where you might get an offer, you might not</li>
+      <li>5 should be high-risk, jobs where you likely won’t get an offer</li>
+    </ul>
+  </li>
+  <li>Don’t apply to any job where you know you won’t accept the offer
+    <ul>
+      <li>Your “safety jobs” should still be somewhere you could see yourself working</li>
+    </ul>
+  </li>
+  <li>Don’t focus too much on the money, but also keep in mind that money is a proxy
 for how much they care about their interns. For example, the Social+Capital
 portfolio of companies pays their Waterloo interns a lot, and they also have a
-great internship program. The founder of Social+Capital is a Waterloo grad.&lt;/li&gt;
-  &lt;li&gt;Don’t save your applications for the second round. Use them all up in the
-first round. The jobs are generally better.&lt;/li&gt;
-&lt;/ul&gt;
+great internship program. The founder of Social+Capital is a Waterloo grad.</li>
+  <li>Don’t save your applications for the second round. Use them all up in the
+first round. The jobs are generally better.</li>
+</ul>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/choosing-jobs/&quot;;
-    this.page.identifier = &quot;/choosing-jobs&quot;;
+    this.page.url = "http://blog.sahiljain.ca/choosing-jobs/";
+    this.page.identifier = "/choosing-jobs";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -338,33 +338,33 @@ first round. The jobs are generally better.&lt;/li&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Don’t wait until the last day to apply to jobs My friend made this mistake, and then realized he was off by one day. He was not able to apply to any jobs and had to return to his last co-op. Maintain a 35/10/5 ratio when applying to the 50 jobs 35 should be low-risk, jobs where you’re pretty confident you could get an offer 10 should be medium-risk, jobs where you might get an offer, you might not 5 should be high-risk, jobs where you likely won’t get an offer Don’t apply to any job where you know you won’t accept the offer Your “safety jobs” should still be somewhere you could see yourself working Don’t focus too much on the money, but also keep in mind that money is a proxy for how much they care about their interns. For example, the Social+Capital portfolio of companies pays their Waterloo interns a lot, and they also have a great internship program. The founder of Social+Capital is a Waterloo grad. Don’t save your applications for the second round. Use them all up in the first round. The jobs are generally better.</summary></entry><entry><title type="html">Waterloo Co-op Series Part 2: The Interview</title><link href="http://blog.sahiljain.ca/interview-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 2: The Interview" /><published>2020-03-15T00:00:00-07:00</published><updated>2020-03-15T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/interview-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/interview-tips/">&lt;p&gt;I participated in over 70 interviews during my time at Waterloo. I had 6
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[Don’t wait until the last day to apply to jobs My friend made this mistake, and then realized he was off by one day. He was not able to apply to any jobs and had to return to his last co-op. Maintain a 35/10/5 ratio when applying to the 50 jobs 35 should be low-risk, jobs where you’re pretty confident you could get an offer 10 should be medium-risk, jobs where you might get an offer, you might not 5 should be high-risk, jobs where you likely won’t get an offer Don’t apply to any job where you know you won’t accept the offer Your “safety jobs” should still be somewhere you could see yourself working Don’t focus too much on the money, but also keep in mind that money is a proxy for how much they care about their interns. For example, the Social+Capital portfolio of companies pays their Waterloo interns a lot, and they also have a great internship program. The founder of Social+Capital is a Waterloo grad. Don’t save your applications for the second round. Use them all up in the first round. The jobs are generally better.]]></summary></entry><entry><title type="html">Waterloo Co-op Series Part 2: The Interview</title><link href="http://localhost:4000/interview-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 2: The Interview" /><published>2020-03-15T00:00:00-07:00</published><updated>2020-03-15T00:00:00-07:00</updated><id>http://localhost:4000/interview-tips</id><content type="html" xml:base="http://localhost:4000/interview-tips/"><![CDATA[<p>I participated in over 70 interviews during my time at Waterloo. I had 6
 internships, and had to interview for 5 of them. Through these many interviews,
 I found a pattern in the interview structure, what they wanted to hear, and how
-people studied for them.&lt;/p&gt;
+people studied for them.</p>
 
-&lt;h2 id=&quot;the-interview-structure&quot;&gt;The Interview Structure&lt;/h2&gt;
+<h2 id="the-interview-structure">The Interview Structure</h2>
 
-&lt;p&gt;Interviews are weird. They’re very formulaic, but fortunately this makes them
+<p>Interviews are weird. They’re very formulaic, but fortunately this makes them
 easy to prepare for. The interviewer is not trying to get to know you
 personally. The interview is simply a time to gather certain signals about you,
 and relay those signals to those in charge of hiring. The structure looks like
-this:&lt;/p&gt;
+this:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;intro&lt;/li&gt;
-  &lt;li&gt;(optional) behavioral question&lt;/li&gt;
-  &lt;li&gt;technical question&lt;/li&gt;
-  &lt;li&gt;technical question follow-up&lt;/li&gt;
-  &lt;li&gt;time for you to ask questions&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>intro</li>
+  <li>(optional) behavioral question</li>
+  <li>technical question</li>
+  <li>technical question follow-up</li>
+  <li>time for you to ask questions</li>
+</ul>
 
-&lt;h1 id=&quot;the-intro&quot;&gt;The Intro&lt;/h1&gt;
+<h1 id="the-intro">The Intro</h1>
 
-&lt;p&gt;The interview starts with the interviewer introducing themselves, describing the
+<p>The interview starts with the interviewer introducing themselves, describing the
 company, and asking you if you need to use the bathroom before the interview
 starts. The purpose of the intro is to calm you down. Save any questions you
 have for the end, to leave as much time as possible for the actual interview.
@@ -372,113 +372,113 @@ Often I will be asked the classic “tell me about yourself”. Be concise with
 this. The interviewer is probably not going to care about your answer, and is just
 asking you in order to calm you down. The interview will be focused on
 the technical question. Don’t try to impress them by telling, impress them by
-showing.&lt;/p&gt;
+showing.</p>
 
-&lt;h1 id=&quot;the-rarely-asked-behavioral-question&quot;&gt;The (Rarely Asked) Behavioral Question&lt;/h1&gt;
+<h1 id="the-rarely-asked-behavioral-question">The (Rarely Asked) Behavioral Question</h1>
 
-&lt;p&gt;I rarely get asked a non-technical question during an interview, but if I do, it
+<p>I rarely get asked a non-technical question during an interview, but if I do, it
 is usually “tell me about a challenge you faced recently and how you overcame
 it”. I have no advice for you here, other than to prepare the answer
-beforehand.&lt;/p&gt;
+beforehand.</p>
 
-&lt;h1 id=&quot;the-technical-question&quot;&gt;The Technical Question&lt;/h1&gt;
+<h1 id="the-technical-question">The Technical Question</h1>
 
-&lt;p&gt;The interviewer doesn’t care if you solve the question or not. They are simply
+<p>The interviewer doesn’t care if you solve the question or not. They are simply
 looking to gather certain signals about how you work. The signals they look
-for are:&lt;/p&gt;
+for are:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Do you ask clarifying questions?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Once you are told the technical question, do not immediately start solving
+<ul>
+  <li><strong>Do you ask clarifying questions?</strong>
+    <ul>
+      <li>Once you are told the technical question, do not immediately start solving
 it. Often, the interviewer will intentionally leave out important details and
 want you to ask for clarification. It’s important to ask questions for two
 reasons: first, it shows that you have a collaborative attitude, and are not
 afraid to ask for help. Second, it shows that you are able to work with
-vague requirements and can ask the right questions to specify them.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Can you accept a hint?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;When the interviewer gives you a hint, take it. First, it shows you are able
+vague requirements and can ask the right questions to specify them.</li>
+    </ul>
+  </li>
+  <li><strong>Can you accept a hint?</strong>
+    <ul>
+      <li>When the interviewer gives you a hint, take it. First, it shows you are able
 to adapt to new information and think on your feet. Second, it shows that you
-are able to accept help from others.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Can you test and debug?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;You aren’t finished answering the technical question once you’re done
+are able to accept help from others.</li>
+    </ul>
+  </li>
+  <li><strong>Can you test and debug?</strong>
+    <ul>
+      <li>You aren’t finished answering the technical question once you’re done
 writing on the whiteboard. You still have to test your program on example
 inputs, and debug your program if you find a bug. Before you start thinking
 about a solution, I would suggest writing some example test cases on the
-whiteboard. Companies love an intern that values testing.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Are you aware of time and space complexity?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Don’t wait for the interviewer to ask you about the time complexity of your
+whiteboard. Companies love an intern that values testing.</li>
+    </ul>
+  </li>
+  <li><strong>Are you aware of time and space complexity?</strong>
+    <ul>
+      <li>Don’t wait for the interviewer to ask you about the time complexity of your
 program. Once you’re done writing your code and testing your code, offer up
 the time and space complexity yourself. This initiative shows that you think
-about complexity proactively.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+about complexity proactively.</li>
+    </ul>
+  </li>
+</ul>
 
-&lt;h1 id=&quot;the-technical-question-follow-up&quot;&gt;The Technical Question Follow-Up&lt;/h1&gt;
+<h1 id="the-technical-question-follow-up">The Technical Question Follow-Up</h1>
 
-&lt;p&gt;It’s rare to be asked just one technical question in a 45-minute interview.
+<p>It’s rare to be asked just one technical question in a 45-minute interview.
 Either the interviewer will ask you a completely different question, or they
 will add a challenge to the original question. Often, the challenge will be a
 tighter time-complexity constraint. Often, the time-complexity is a hint to the
 solution. If the interviewer tells you it can be solved in linear time, you know
-you can’t have nested loops or recursive calls.&lt;/p&gt;
+you can’t have nested loops or recursive calls.</p>
 
-&lt;h1 id=&quot;what-questions-to-ask-them&quot;&gt;What Questions To Ask Them&lt;/h1&gt;
+<h1 id="what-questions-to-ask-them">What Questions To Ask Them</h1>
 
-&lt;p&gt;The interview will end with a chance for you to ask questions. This is a good
+<p>The interview will end with a chance for you to ask questions. This is a good
 opportunity to show your interest in the company. Research the company
 beforehand, learn about what makes them unique, and ask a question about
 something you find genuinely interesting about the company. If there’s nothing
 about the company you’re curious about, you either didn’t do enough research, or
-you’re not that interested anyways.&lt;/p&gt;
+you’re not that interested anyways.</p>
 
-&lt;h2 id=&quot;before-the-interview&quot;&gt;Before the Interview&lt;/h2&gt;
+<h2 id="before-the-interview">Before the Interview</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;Know your resume. See my &lt;a href=&quot;/resume-tips/&quot;&gt;previous post&lt;/a&gt;
- for resume advice.&lt;/li&gt;
-  &lt;li&gt;Bring a copy of your resume to the interview.&lt;/li&gt;
-  &lt;li&gt;Bring spare whiteboard markers, pencils, and paper to the interview.&lt;/li&gt;
-  &lt;li&gt;Practice questions on a whiteboard, from HackerRank, LeetCode, GeeksForGeeks,
-etc.&lt;/li&gt;
-  &lt;li&gt;Read up on common algorithms and data structures.&lt;/li&gt;
-  &lt;li&gt;Practice time-complexity and space-complexity analysis.&lt;/li&gt;
-  &lt;li&gt;Big companies like Google and Facebook are known to value syntactically
+<ul>
+  <li>Know your resume. See my <a href="/resume-tips/">previous post</a>
+ for resume advice.</li>
+  <li>Bring a copy of your resume to the interview.</li>
+  <li>Bring spare whiteboard markers, pencils, and paper to the interview.</li>
+  <li>Practice questions on a whiteboard, from HackerRank, LeetCode, GeeksForGeeks,
+etc.</li>
+  <li>Read up on common algorithms and data structures.</li>
+  <li>Practice time-complexity and space-complexity analysis.</li>
+  <li>Big companies like Google and Facebook are known to value syntactically
 correct code. Pick 1 popular language to study (C++, Java, or Python), and learn
-to code in it with correct syntax without an IDE.&lt;/li&gt;
-  &lt;li&gt;Don’t dress up. Don’t follow &lt;a href=&quot;https://uwaterloo.ca/beyond-ideas/stories/tips-advice/how-dress-for-job-interview&quot;&gt;Waterloo’s advice on how to
-dress&lt;/a&gt;.
+to code in it with correct syntax without an IDE.</li>
+  <li>Don’t dress up. Don’t follow <a href="https://uwaterloo.ca/beyond-ideas/stories/tips-advice/how-dress-for-job-interview">Waterloo’s advice on how to
+dress</a>.
 You want the interviewer to be able to picture you on the job. Dress how you
 would on the actual job. Convey your professionalism with your demeanor, not
-your wardrobe.&lt;/li&gt;
-&lt;/ul&gt;
+your wardrobe.</li>
+</ul>
 
-&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
+<h2 id="tldr">TL;DR</h2>
 
-&lt;p&gt;Interviews are weird. They’re very focused on the technical question. Technical
+<p>Interviews are weird. They’re very focused on the technical question. Technical
 questions are used to gather signals about you. Make sure you send those
 signals, and don’t just answer the question. Research the company so you can ask
 them interesting and specific questions at the end. Know your resume, bring
-materials to the interview, and don’t dress up.&lt;/p&gt;
+materials to the interview, and don’t dress up.</p>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/interview-tips/&quot;;
-    this.page.identifier = &quot;/interview-tips&quot;;
+    this.page.url = "http://blog.sahiljain.ca/interview-tips/";
+    this.page.identifier = "/interview-tips";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -486,16 +486,16 @@ materials to the interview, and don’t dress up.&lt;/p&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">I participated in over 70 interviews during my time at Waterloo. I had 6 internships, and had to interview for 5 of them. Through these many interviews, I found a pattern in the interview structure, what they wanted to hear, and how people studied for them.</summary></entry><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://blog.sahiljain.ca/resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/resume-tips</id><content type="html" xml:base="http://blog.sahiljain.ca/resume-tips/">&lt;p&gt;In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[I participated in over 70 interviews during my time at Waterloo. I had 6 internships, and had to interview for 5 of them. Through these many interviews, I found a pattern in the interview structure, what they wanted to hear, and how people studied for them.]]></summary></entry><entry><title type="html">Waterloo Co-op Series Part 1: The Resume</title><link href="http://localhost:4000/resume-tips/" rel="alternate" type="text/html" title="Waterloo Co-op Series Part 1: The Resume" /><published>2020-03-14T00:00:00-07:00</published><updated>2020-03-14T00:00:00-07:00</updated><id>http://localhost:4000/resume-tips</id><content type="html" xml:base="http://localhost:4000/resume-tips/"><![CDATA[<p>In the Waterloo co-op program, you’ll have 6 internships, which means you’ll
 have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot
-of resumes over the years and I’ve seen that good resumes follow a certain pattern.&lt;/p&gt;
+of resumes over the years and I’ve seen that good resumes follow a certain pattern.</p>
 
-&lt;h1 id=&quot;the-resume-is-not-a-summary&quot;&gt;The Resume is not a Summary&lt;/h1&gt;
+<h1 id="the-resume-is-not-a-summary">The Resume is not a Summary</h1>
 
-&lt;p&gt;The resume is an advertisement highlighting your best relevant qualities, not a summary of everything you’ve done.
+<p>The resume is an advertisement highlighting your best relevant qualities, not a summary of everything you’ve done.
 Recruiters have to sift through hundreds of resumes, and they don’t have time to
 read every one. To save on time, they shortlist a handful of resumes by quickly skimming over them, and they don’t consider the rest.
 The hardest part of finding an internship is getting your resume into their shortlist.
@@ -504,76 +504,76 @@ you get the interview it’s likely you’ll get the job. If a company receives 
 resumes, they will shortlist 30 of them, interview 10 candidates, and give out 5
 offers. Make the resume look really good for the snap-judgement phase by
 highlighting your best qualities, instead of summarizing all your
-accomplishments.&lt;/p&gt;
+accomplishments.</p>
 
-&lt;h1 id=&quot;concise-format&quot;&gt;Concise Format&lt;/h1&gt;
+<h1 id="concise-format">Concise Format</h1>
 
-&lt;p&gt;Keep the resume to 1 column and 1 page. 2 columns are difficult to
-read, and you don’t have enough experience to span multiple pages.&lt;/p&gt;
+<p>Keep the resume to 1 column and 1 page. 2 columns are difficult to
+read, and you don’t have enough experience to span multiple pages.</p>
 
-&lt;p&gt;At the top should be your name, your program and current term number.&lt;/p&gt;
+<p>At the top should be your name, your program and current term number.</p>
 
-&lt;p&gt;Next should be a list of technologies and languages that you know. Recruiters
+<p>Next should be a list of technologies and languages that you know. Recruiters
 will often quickly scan through resumes looking for a certain technology, so
 having this information right at the top is useful for them. With
-technologies/languages, the more you have the better.&lt;/p&gt;
+technologies/languages, the more you have the better.</p>
 
-&lt;p&gt;Then should be your job experience: past internships, and other tech-related
+<p>Then should be your job experience: past internships, and other tech-related
 jobs if you have any. Don’t put unrelated jobs unless you’re looking for your
 first internship. Put the company name, job title, the dates you worked there,
-and the city. Later on I’ll go into how to best describe your job experience.&lt;/p&gt;
+and the city. Later on I’ll go into how to best describe your job experience.</p>
 
-&lt;p&gt;After that should be your side projects, which are especially important if you don’t
+<p>After that should be your side projects, which are especially important if you don’t
 have a lot of internships under your belt. For your projects, mention what
 technologies you used, what it does, when you built it, and any difficult
-challenges you had.&lt;/p&gt;
+challenges you had.</p>
 
-&lt;p&gt;Then should be your education, and this is low in your resume since the
+<p>Then should be your education, and this is low in your resume since the
 recruiter will know you are from Waterloo, and will know what program you’re in
 from the application package. This should also include your cumulative average
-if it’s above 85%.&lt;/p&gt;
+if it’s above 85%.</p>
 
-&lt;p&gt;Last should be any awards you have from university or high school, particularly,
-waterloo CS/math contests.&lt;/p&gt;
+<p>Last should be any awards you have from university or high school, particularly,
+waterloo CS/math contests.</p>
 
-&lt;p&gt;Do not write about miscellaneous skills, do not list your hobbies, and do not
+<p>Do not write about miscellaneous skills, do not list your hobbies, and do not
 put an objective. No one makes an employment decision based on hobbies, and if they do, they will ask you about it in
-the interview.&lt;/p&gt;
+the interview.</p>
 
-&lt;h1 id=&quot;writing-about-work-experience&quot;&gt;Writing about Work Experience&lt;/h1&gt;
+<h1 id="writing-about-work-experience">Writing about Work Experience</h1>
 
-&lt;p&gt;Describing your technologies, languages, projects, education, and awards is
+<p>Describing your technologies, languages, projects, education, and awards is
 pretty straightforward, they are just a list. The content writing comes in when
-you’re describing your job experience. I see the same mistakes over and over.&lt;/p&gt;
+you’re describing your job experience. I see the same mistakes over and over.</p>
 
-&lt;p&gt;Don’t talk about what you worked on, talk about the impact you had. The first
+<p>Don’t talk about what you worked on, talk about the impact you had. The first
 line (or two) should describe your general job, and every line after that should
-be phrased like the following: &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Impact&amp;gt; by building &amp;lt;x feature&amp;gt; using &amp;lt;y
-technology&amp;gt;&lt;/code&gt;. For example, you could say &lt;code class=&quot;highlighter-rouge&quot;&gt;Reduced Messenger background data
-usage by 1-2% by building Invertible Bloom Filters for set reconciliation&lt;/code&gt;.
+be phrased like the following: <code class="highlighter-rouge">&lt;Impact&gt; by building &lt;x feature&gt; using &lt;y
+technology&gt;</code>. For example, you could say <code class="highlighter-rouge">Reduced Messenger background data
+usage by 1-2% by building Invertible Bloom Filters for set reconciliation</code>.
 Having a numerical metric is awesome, but impact of any kind is great. When
 talking about your general job, you can also emphasize how important your team
 is by talking about the impact of the team (number of users of product for
-example). What I don’t like to see is a long list of &lt;code class=&quot;highlighter-rouge&quot;&gt;Developed x&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Implemented
-y&lt;/code&gt;, etc. Phrase it so the impact is first in the line, because you should keep
+example). What I don’t like to see is a long list of <code class="highlighter-rouge">Developed x</code>, <code class="highlighter-rouge">Implemented
+y</code>, etc. Phrase it so the impact is first in the line, because you should keep
 your most important information to the left, and if the reader is still
-interested, they will continue reading the line.&lt;/p&gt;
+interested, they will continue reading the line.</p>
 
-&lt;h1 id=&quot;tldr&quot;&gt;TL;DR&lt;/h1&gt;
+<h1 id="tldr">TL;DR</h1>
 
-&lt;p&gt;Keep it to one page, talk about impact instead of a list of everything you
+<p>Keep it to one page, talk about impact instead of a list of everything you
 built, include numerical metrics where possible, include keywords (languages,
 technologies) as much as possible, and keep the best info to the top-left of the
-resume.&lt;/p&gt;
+resume.</p>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/resume-tips/&quot;;
-    this.page.identifier = &quot;/resume-tips&quot;;
+    this.page.url = "http://blog.sahiljain.ca/resume-tips/";
+    this.page.identifier = "/resume-tips";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -581,14 +581,14 @@ resume.&lt;/p&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.</summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://blog.sahiljain.ca/binary-adder/" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://blog.sahiljain.ca/binary-adder</id><content type="html" xml:base="http://blog.sahiljain.ca/binary-adder/">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;
-&lt;/script&gt;
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[In the Waterloo co-op program, you’ll have 6 internships, which means you’ll have to create 6 resumes, and interview with companies 6 times. I’ve reviewed a lot of resumes over the years and I’ve seen that good resumes follow a certain pattern.]]></summary></entry><entry><title type="html">Building a Binary Adder Using Neural Networks</title><link href="http://localhost:4000/binary-adder/" rel="alternate" type="text/html" title="Building a Binary Adder Using Neural Networks" /><published>2016-12-30T00:00:00-08:00</published><updated>2016-12-30T00:00:00-08:00</updated><id>http://localhost:4000/binary-adder</id><content type="html" xml:base="http://localhost:4000/binary-adder/"><![CDATA[<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
 
-&lt;p&gt;While taking Andrew Ng’s &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning
-course&lt;/a&gt;, I came across the idea
+<p>While taking Andrew Ng’s <a href="https://www.coursera.org/learn/machine-learning">Machine Learning
+course</a>, I came across the idea
 that neurons in neural networks can simulate logic gates. I wanted to prove this
 by manually building a neural network to perform binary addition, and then later
 having a neural network learn binary addition via training. This is a really
@@ -597,109 +597,109 @@ circuits and neural networks. The neural network is executing on a digital
 computer, and it is able to simulate a digital computer. It’s another paradigm
 of computing, and the mapping I am about to describe is sound and complete.
 Furthermore, biological neurons perform the same function as artifical neurons,
-so it also shows an equivalence between digital computers and the brain.&lt;/p&gt;
+so it also shows an equivalence between digital computers and the brain.</p>
 
-&lt;p&gt;Let’s first take a look at what an individual neuron does:&lt;/p&gt;
+<p>Let’s first take a look at what an individual neuron does:</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/neuron.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/neuron.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;It takes in an array of inputs &lt;script type=&quot;math/tex&quot;&gt;u_0, u_1, u_2&lt;/script&gt;, multiplies each element by its
+<p>It takes in an array of inputs \(u_0, u_1, u_2\), multiplies each element by its
 respective weight, and sums this. If the sum is greater than the threshold
-(&lt;script type=&quot;math/tex&quot;&gt;-b_0&lt;/script&gt;), output 1, otherwise output 0. Formally, the output is&lt;/p&gt;
+(\(-b_0\)), output 1, otherwise output 0. Formally, the output is</p>
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;y_0 = sigmoid(u_0w_0 + u_1w_1 + u_2w_2 + b_0)&lt;/script&gt;
+\[y_0 = sigmoid(u_0w_0 + u_1w_1 + u_2w_2 + b_0)\]
 
-&lt;p&gt;where &lt;script type=&quot;math/tex&quot;&gt;sigmoid&lt;/script&gt; is a smoothed step function outputting 1 if the input is &lt;script type=&quot;math/tex&quot;&gt;&gt;
-0&lt;/script&gt;. Using this formula, and restricting the inputs to be 0 or 1, we can build
-an AND operator:&lt;/p&gt;
+<p>where \(sigmoid\) is a smoothed step function outputting 1 if the input is \(&gt;
+0\). Using this formula, and restricting the inputs to be 0 or 1, we can build
+an AND operator:</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/and.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/and.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;If both inputs are 0, the sum will be -1.5 so the neuron will not activate. If
+<p>If both inputs are 0, the sum will be -1.5 so the neuron will not activate. If
 only 1 input is 1, the sum will be -0.5 so the neuron will not activate. If both
-inputs are 1, the sum will be 0.5 so the neuron will activate. Similarly, we can build an OR operator:&lt;/p&gt;
+inputs are 1, the sum will be 0.5 so the neuron will activate. Similarly, we can build an OR operator:</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/or.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/or.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;We can also build a NOT operator:&lt;/p&gt;
+<p>We can also build a NOT operator:</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/not.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/not.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;Using these 3 basic logic gates, we can build more complicated gates such as
-XOR. We can simplify the XOR gate by realizing that &lt;script type=&quot;math/tex&quot;&gt;A\ XOR\ B&lt;/script&gt; is the same as &lt;script type=&quot;math/tex&quot;&gt;(A\ OR\ B)\ AND\ NOT\ (A\ AND\ B)&lt;/script&gt;:&lt;/p&gt;
+<p>Using these 3 basic logic gates, we can build more complicated gates such as
+XOR. We can simplify the XOR gate by realizing that \(A\ XOR\ B\) is the same as \((A\ OR\ B)\ AND\ NOT\ (A\ AND\ B)\):</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/xor.png&quot; alt=&quot;Neuron&quot; width=&quot;500px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/xor.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;Now that we have the basic conversions from logic gates to neurons, let’s look
-at the logic circuit for a 2-bit binary adder:&lt;/p&gt;
+<p>Now that we have the basic conversions from logic gates to neurons, let’s look
+at the logic circuit for a 2-bit binary adder:</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/adder_circuit.png&quot; alt=&quot;Neuron&quot; width=&quot;600px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/adder_circuit.png" alt="Neuron" width="600px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;The first output is calculated by XORing the 2 least-significant bits. There is
+<p>The first output is calculated by XORing the 2 least-significant bits. There is
 a carry-over only if the first bits are both 1. Translating each logic gate into
-neurons, the neural network for the binary adder should look like:&lt;/p&gt;
+neurons, the neural network for the binary adder should look like:</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/adder_network.png&quot; alt=&quot;Neuron&quot; width=&quot;600px&quot; style=&quot;margin: 0 auto; display: block;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/adder_network.png" alt="Neuron" width="600px" style="margin: 0 auto; display: block;" /></p>
 
-&lt;p&gt;This network takes in 4 inputs (2 bits for input a, 2 bits for input b), and
+<p>This network takes in 4 inputs (2 bits for input a, 2 bits for input b), and
 outputs 3 bits, since adding 2 bit numbers can result in 3 bits (ex. 3 + 3 = 6,
 so 11 + 11 = 110). There are 2 hidden layers: the first hidden layer has 6
 neurons, and the second hidden layer has 4 neurons. Going from left to right,
-the layers are of size: 4,6,4,5,3.&lt;/p&gt;
+the layers are of size: 4,6,4,5,3.</p>
 
-&lt;p&gt;We can manually test this network we have built on some inputs and see that it
+<p>We can manually test this network we have built on some inputs and see that it
 works. Now, let’s use Tensorflow and automatically train a neural network of the
-same shape to learn binary addition!&lt;/p&gt;
+same shape to learn binary addition!</p>
 
-&lt;p&gt;We’ll start by importing Tensorflow, and setting the size of the input layer,
-the 3 intermediate layers, and the output layer:&lt;/p&gt;
+<p>We’ll start by importing Tensorflow, and setting the size of the input layer,
+the 3 intermediate layers, and the output layer:</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;tensorflow&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">tensorflow</span> <span class="k">as</span> <span class="n">tf</span>
 
-&lt;span class=&quot;n&quot;&gt;input_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<span class="n">input_size</span> <span class="o">=</span> <span class="mi">4</span>
+<span class="n">hidden_1_size</span> <span class="o">=</span> <span class="mi">6</span>
+<span class="n">hidden_2_size</span> <span class="o">=</span> <span class="mi">4</span>
+<span class="n">hidden_3_size</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">output_size</span> <span class="o">=</span> <span class="mi">3</span></code></pre></figure>
 
-&lt;p&gt;The Tensorflow python library is mostly just an interface to the main C++
+<p>The Tensorflow python library is mostly just an interface to the main C++
 backend which runs in a separate process. In order to communicate with the C++
 backend, we need to specify shared data in the form of tf Variables. The input
 (the 2 2-bit numbers) will be one variable (a vector of size 4), the output will be another (a vector of size 3), and the
 weights and biases of the network will also be variables. We will specify the
-weights as matrices.&lt;/p&gt;
+weights as matrices.</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Variable to populate with input
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;float&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;input_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="c1"># Variable to populate with input
+</span><span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="p">.</span><span class="n">placeholder</span><span class="p">(</span><span class="s">"float"</span><span class="p">,</span> <span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="n">input_size</span><span class="p">])</span>
 
-&lt;span class=&quot;c1&quot;&gt;# Variable which will be populated with output
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;placeholder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;float&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+<span class="c1"># Variable which will be populated with output
+</span><span class="n">y</span> <span class="o">=</span> <span class="n">tf</span><span class="p">.</span><span class="n">placeholder</span><span class="p">(</span><span class="s">"float"</span><span class="p">,</span> <span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="n">output_size</span><span class="p">])</span>
 
-&lt;span class=&quot;c1&quot;&gt;# Variables which we will be learning
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weights&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'h1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'h2'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'h3'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'out'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+<span class="c1"># Variables which we will be learning
+</span><span class="n">weights</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="s">'h1'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">input_size</span><span class="p">,</span> <span class="n">hidden_1_size</span><span class="p">])),</span>
+  <span class="s">'h2'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_1_size</span><span class="p">,</span> <span class="n">hidden_2_size</span><span class="p">])),</span>
+  <span class="s">'h3'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_2_size</span><span class="p">,</span> <span class="n">hidden_3_size</span><span class="p">])),</span>
+  <span class="s">'out'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_3_size</span><span class="p">,</span> <span class="n">output_size</span><span class="p">]))</span>
+<span class="p">}</span>
 
-&lt;span class=&quot;n&quot;&gt;biases&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'b1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_1_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'b2'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_2_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'b3'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;hidden_3_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])),&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;'out'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Variable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tf&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random_normal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;output_size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<span class="n">biases</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="s">'b1'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_1_size</span><span class="p">])),</span>
+  <span class="s">'b2'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_2_size</span><span class="p">])),</span>
+  <span class="s">'b3'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_3_size</span><span class="p">])),</span>
+  <span class="s">'out'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">output_size</span><span class="p">]))</span>
+<span class="p">}</span></code></pre></figure>
 
-&lt;p&gt;The rest of the Tensorflow program is left as an exercise to the reader.&lt;/p&gt;
+<p>The rest of the Tensorflow program is left as an exercise to the reader.</p>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/binary-adder/&quot;;
-    this.page.identifier = &quot;/binary-adder&quot;;
+    this.page.url = "http://blog.sahiljain.ca/binary-adder/";
+    this.page.identifier = "/binary-adder";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -707,25 +707,25 @@ weights as matrices.&lt;/p&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">What I Wish I Knew in First Year</title><link href="http://blog.sahiljain.ca/first-year/" rel="alternate" type="text/html" title="What I Wish I Knew in First Year" /><published>2016-09-10T23:44:08-07:00</published><updated>2016-09-10T23:44:08-07:00</updated><id>http://blog.sahiljain.ca/first-year</id><content type="html" xml:base="http://blog.sahiljain.ca/first-year/">&lt;ul&gt;
-  &lt;li&gt;Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé.&lt;/li&gt;
-  &lt;li&gt;Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook.&lt;/li&gt;
-  &lt;li&gt;Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas.&lt;/li&gt;
-  &lt;li&gt;Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world.&lt;/li&gt;
-  &lt;li&gt;Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.&lt;/li&gt;
-&lt;/ul&gt;
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">What I Wish I Knew in First Year</title><link href="http://localhost:4000/first-year/" rel="alternate" type="text/html" title="What I Wish I Knew in First Year" /><published>2016-09-10T23:44:08-07:00</published><updated>2016-09-10T23:44:08-07:00</updated><id>http://localhost:4000/first-year</id><content type="html" xml:base="http://localhost:4000/first-year/"><![CDATA[<ul>
+  <li>Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé.</li>
+  <li>Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook.</li>
+  <li>Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas.</li>
+  <li>Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world.</li>
+  <li>Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.</li>
+</ul>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/first-year/&quot;;
-    this.page.identifier = &quot;/first-year&quot;;
+    this.page.url = "http://blog.sahiljain.ca/first-year/";
+    this.page.identifier = "/first-year";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -733,117 +733,117 @@ weights as matrices.&lt;/p&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé. Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook. Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas. Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world. Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.</summary></entry><entry><title type="html">How I Got Free Wi-Fi at a Hotel</title><link href="http://blog.sahiljain.ca/free-wifi/" rel="alternate" type="text/html" title="How I Got Free Wi-Fi at a Hotel" /><published>2016-09-10T21:05:43-07:00</published><updated>2016-09-10T21:05:43-07:00</updated><id>http://blog.sahiljain.ca/free-wifi</id><content type="html" xml:base="http://blog.sahiljain.ca/free-wifi/">&lt;p&gt;&lt;em&gt;Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.&lt;/em&gt;&lt;/p&gt;
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[Keep your résumé to 1 page. Employers will only read the first page, and you don’t have enough experience to justify a 2-page résumé. Don’t spend so much energy taking notes during lectures. Ideally 100% of your attention should be spent on listening to the professor and understanding their train of thought. Many students make the mistake of writing everything the professor says, leaving little room to learn in the moment. Learn it right the first time, and when studying for exams either the prof will upload their notes, or you can read the textbook. Exercise. Everyone has time to exercise. You will feel better, have more energy, and discipline in one area of your life will bleed into all other areas. Don’t apply to so many jobs. I am always afraid of getting matched with a bad company, so I end up applying to way too many jobs, getting too many interviews, and spending too much time in the Tatham Centre. I end up with offers from companies I would never see myself working at, and end up wasting my own time. Be confident, and only apply to serious jobs. You’re a software engineer in an era when software is eating the world. Treat co-op as a vacation. Go out, spend some time with your friends, and spend some money you’ve earned. The Waterloo program doesn’t give you any vacation. It’s a constant grind between work, school, looking for jobs, and moving city to city. However, during co-op your work is bounded to 40 hours a week, so you should use your spare time to have some fun.]]></summary></entry><entry><title type="html">How I Got Free Wi-Fi at a Hotel</title><link href="http://localhost:4000/free-wifi/" rel="alternate" type="text/html" title="How I Got Free Wi-Fi at a Hotel" /><published>2016-09-10T21:05:43-07:00</published><updated>2016-09-10T21:05:43-07:00</updated><id>http://localhost:4000/free-wifi</id><content type="html" xml:base="http://localhost:4000/free-wifi/"><![CDATA[<p><em>Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.</em></p>
 
-&lt;p&gt;Recently I visited Blue Mountain, and I wanted to see if I could avoid paying $15 per day per device for internet access. Once you connect to their network, they present 3 options to purchase internet access:&lt;/p&gt;
+<p>Recently I visited Blue Mountain, and I wanted to see if I could avoid paying $15 per day per device for internet access. Once you connect to their network, they present 3 options to purchase internet access:</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Enter your credit card information and get billed directly.&lt;/li&gt;
-  &lt;li&gt;Enter your room number and name and have the charge applied to your room.&lt;/li&gt;
-  &lt;li&gt;Enter an authorization code.&lt;/li&gt;
-&lt;/ol&gt;
+<ol>
+  <li>Enter your credit card information and get billed directly.</li>
+  <li>Enter your room number and name and have the charge applied to your room.</li>
+  <li>Enter an authorization code.</li>
+</ol>
 
-&lt;p&gt;I pursued option 3, and decided to crack an authorization code through brute-force. I looked through the html/javascript and found that it wasn’t minified, so it was easy to see the logic. The submit button triggers a javascript function that uses JQuery to get the value of the auth code field, and it makes an HTTP GET request where the auth code is a query parameter. The result is a JSON object, and if the property “status” is 2, then it is a valid auth code. This endpoint was very fast, and didn’t have any special encoding or security measurements in place. On the website it said that authorization codes are case insensitive, and I made the assumption that they were alphanumeric.&lt;/p&gt;
+<p>I pursued option 3, and decided to crack an authorization code through brute-force. I looked through the html/javascript and found that it wasn’t minified, so it was easy to see the logic. The submit button triggers a javascript function that uses JQuery to get the value of the auth code field, and it makes an HTTP GET request where the auth code is a query parameter. The result is a JSON object, and if the property “status” is 2, then it is a valid auth code. This endpoint was very fast, and didn’t have any special encoding or security measurements in place. On the website it said that authorization codes are case insensitive, and I made the assumption that they were alphanumeric.</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ajax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://portal.ihotel.ca/GuestsAPI?function=ValidateAuthCode&amp;amp;iHotelAuthCode=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#iHotel_Authcode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;amp;iHotelLocation=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;iHotel_location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;cache&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;success&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;switch&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;We are sorry, but the code you have entered is not registered. If you have misspelled the authorization code, please try again, otherwise please contact the hotel front desk to receive a new authorization code. &amp;lt;p&amp;gt;&amp;lt;small&amp;gt;The authorization code is not case sensitive.&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt;[IHCC005]&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Maximum number of devices reached for this transaction. Please contact the front desk to obtain an authorization code.(IHCC032)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;c1&quot;&gt;//Code is valid, let's try to authorize it&lt;/span&gt;
-                &lt;span class=&quot;c1&quot;&gt;//alert(&quot;Will use: &quot;+data.location_id);&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-                    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#iHotel_Authcode_location_id&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-                &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;LoadingShow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#iHotel_AuthCode_Form&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;submit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;c1&quot;&gt;//Code is valid, in an allowed roaming location, let's use it.&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#iHotel_Authcode_location_id&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;location_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#iHotel_AuthCode_Form&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;submit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;nl&quot;&gt;default&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;An error occured, please contact the front desk to obtain an authorization code.(IHCC031)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;iHotelBlockUI&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-text&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;An error occured, please contact the front desk to obtain an authorization code.(IHCC031)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;error-lightbox&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
+    <span class="na">url</span><span class="p">:</span> <span class="dl">"</span><span class="s2">http://portal.ihotel.ca/GuestsAPI?function=ValidateAuthCode&amp;iHotelAuthCode=</span><span class="dl">"</span> <span class="o">+</span> <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">#iHotel_Authcode</span><span class="dl">'</span><span class="p">).</span><span class="nx">val</span><span class="p">()</span> <span class="o">+</span> <span class="dl">"</span><span class="s2">&amp;iHotelLocation=</span><span class="dl">"</span> <span class="o">+</span> <span class="nx">iHotel_location_id</span><span class="p">,</span>
+    <span class="na">cache</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+    <span class="na">success</span><span class="p">:</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">switch</span> <span class="p">(</span><span class="nx">data</span><span class="p">.</span><span class="nx">status</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">case</span> <span class="mi">0</span><span class="p">:</span>
+                <span class="nx">iHotelBlockUI</span><span class="p">(</span><span class="dl">"</span><span class="s2">error-text</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">We are sorry, but the code you have entered is not registered. If you have misspelled the authorization code, please try again, otherwise please contact the hotel front desk to receive a new authorization code. &lt;p&gt;&lt;small&gt;The authorization code is not case sensitive.&lt;/small&gt;&lt;/p&gt;[IHCC005]</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">error-lightbox</span><span class="dl">"</span><span class="p">);</span>
+                <span class="k">break</span><span class="p">;</span>
+            <span class="k">case</span> <span class="mi">1</span><span class="p">:</span>
+                <span class="nx">iHotelBlockUI</span><span class="p">(</span><span class="dl">"</span><span class="s2">error-text</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">Maximum number of devices reached for this transaction. Please contact the front desk to obtain an authorization code.(IHCC032)</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">error-lightbox</span><span class="dl">"</span><span class="p">);</span>
+                <span class="k">break</span><span class="p">;</span>
+            <span class="k">case</span> <span class="mi">2</span><span class="p">:</span>
+                <span class="c1">//Code is valid, let's try to authorize it</span>
+                <span class="c1">//alert("Will use: "+data.location_id);</span>
+                <span class="k">if</span> <span class="p">(</span><span class="nx">data</span><span class="p">.</span><span class="nx">location_id</span><span class="p">)</span> <span class="p">{</span>
+                    <span class="nx">$</span><span class="p">(</span><span class="dl">"</span><span class="s2">#iHotel_Authcode_location_id</span><span class="dl">"</span><span class="p">).</span><span class="nx">val</span><span class="p">(</span><span class="nx">data</span><span class="p">.</span><span class="nx">location_id</span><span class="p">);</span>
+                <span class="p">}</span>
+                <span class="nx">LoadingShow</span><span class="p">();</span>
+                <span class="nx">$</span><span class="p">(</span><span class="dl">'</span><span class="s1">#iHotel_AuthCode_Form</span><span class="dl">'</span><span class="p">).</span><span class="nx">submit</span><span class="p">();</span>
+                <span class="k">break</span><span class="p">;</span>
+            <span class="k">case</span> <span class="mi">3</span><span class="p">:</span>
+                <span class="c1">//Code is valid, in an allowed roaming location, let's use it.</span>
+                <span class="nx">$</span><span class="p">(</span><span class="dl">"</span><span class="s2">#iHotel_Authcode_location_id</span><span class="dl">"</span><span class="p">).</span><span class="nx">val</span><span class="p">(</span><span class="nx">data</span><span class="p">.</span><span class="nx">location_id</span><span class="p">);</span>
+                <span class="nx">$</span><span class="p">(</span><span class="dl">"</span><span class="s2">#iHotel_AuthCode_Form</span><span class="dl">"</span><span class="p">).</span><span class="nx">submit</span><span class="p">();</span>
+                <span class="k">break</span><span class="p">;</span>
+            <span class="nl">default</span><span class="p">:</span>
+                <span class="nx">iHotelBlockUI</span><span class="p">(</span><span class="dl">"</span><span class="s2">error-text</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">An error occured, please contact the front desk to obtain an authorization code.(IHCC031)</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">error-lightbox</span><span class="dl">"</span><span class="p">);</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="na">error</span><span class="p">:</span> <span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">iHotelBlockUI</span><span class="p">(</span><span class="dl">"</span><span class="s2">error-text</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">An error occured, please contact the front desk to obtain an authorization code.(IHCC031)</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">error-lightbox</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">}</span>
+<span class="p">});</span></code></pre></figure>
 
-&lt;p&gt;I wrote a python script to try all alphanumeric auth codes of length 4 and let it run for about 30 minutes. This was a multithreaded script using 200 threads, making a total of 1.7 million requests. The script stumbled upon &lt;code class=&quot;highlighter-rouge&quot;&gt;ends&lt;/code&gt;, which turned out to be an authorization code that employees of Blue Mountain share to get internet access. I entered this code into the landing page and it worked. Free internet access after a half-hour of password cracking.&lt;/p&gt;
+<p>I wrote a python script to try all alphanumeric auth codes of length 4 and let it run for about 30 minutes. This was a multithreaded script using 200 threads, making a total of 1.7 million requests. The script stumbled upon <code class="highlighter-rouge">ends</code>, which turned out to be an authorization code that employees of Blue Mountain share to get internet access. I entered this code into the landing page and it worked. Free internet access after a half-hour of password cracking.</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;urlparse&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urlparse&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;threading&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Thread&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;httplib&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;urllib&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Queue&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Queue&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;numThreads&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;url1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;http://portal.ihotel.ca/GuestsAPI?function=ValidateAuthCode&amp;amp;iHotelAuthCode=&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;url2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&amp;amp;iHotelLocation=BlueMountainGuests&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;letters&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;e&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;f&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;g&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;h&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;i&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;j&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;k&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;l&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;m&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;n&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;o&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;p&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;q&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;r&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;s&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;t&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;u&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;v&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;w&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;x&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;y&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;z&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;1&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;2&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;3&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;4&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;5&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;6&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;7&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;8&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;9&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">urlparse</span> <span class="kn">import</span> <span class="n">urlparse</span>
+<span class="kn">from</span> <span class="nn">threading</span> <span class="kn">import</span> <span class="n">Thread</span>
+<span class="kn">import</span> <span class="nn">httplib</span><span class="p">,</span> <span class="n">sys</span><span class="p">,</span> <span class="n">urllib2</span><span class="p">,</span> <span class="n">urllib</span>
+<span class="kn">from</span> <span class="nn">Queue</span> <span class="kn">import</span> <span class="n">Queue</span>
+<span class="n">numThreads</span> <span class="o">=</span> <span class="mi">200</span>
+<span class="n">url1</span> <span class="o">=</span> <span class="s">"http://portal.ihotel.ca/GuestsAPI?function=ValidateAuthCode&amp;iHotelAuthCode="</span>
+<span class="n">url2</span> <span class="o">=</span> <span class="s">"&amp;iHotelLocation=BlueMountainGuests"</span>
+<span class="n">letters</span> <span class="o">=</span> <span class="p">[</span><span class="s">"a"</span><span class="p">,</span> <span class="s">"b"</span><span class="p">,</span> <span class="s">"c"</span><span class="p">,</span> <span class="s">"d"</span><span class="p">,</span> <span class="s">"e"</span><span class="p">,</span> <span class="s">"f"</span><span class="p">,</span> <span class="s">"g"</span><span class="p">,</span> <span class="s">"h"</span><span class="p">,</span> <span class="s">"i"</span><span class="p">,</span> <span class="s">"j"</span><span class="p">,</span> <span class="s">"k"</span><span class="p">,</span> <span class="s">"l"</span><span class="p">,</span> <span class="s">"m"</span><span class="p">,</span> <span class="s">"n"</span><span class="p">,</span> <span class="s">"o"</span><span class="p">,</span> <span class="s">"p"</span><span class="p">,</span> <span class="s">"q"</span><span class="p">,</span> <span class="s">"r"</span><span class="p">,</span> <span class="s">"s"</span><span class="p">,</span> <span class="s">"t"</span><span class="p">,</span> <span class="s">"u"</span><span class="p">,</span> <span class="s">"v"</span><span class="p">,</span> <span class="s">"w"</span><span class="p">,</span> <span class="s">"x"</span><span class="p">,</span> <span class="s">"y"</span><span class="p">,</span> <span class="s">"z"</span><span class="p">,</span> <span class="s">"0"</span><span class="p">,</span> <span class="s">"1"</span><span class="p">,</span> <span class="s">"2"</span><span class="p">,</span> <span class="s">"3"</span><span class="p">,</span> <span class="s">"4"</span><span class="p">,</span> <span class="s">"5"</span><span class="p">,</span> <span class="s">"6"</span><span class="p">,</span> <span class="s">"7"</span><span class="p">,</span> <span class="s">"8"</span><span class="p">,</span> <span class="s">"9"</span><span class="p">]</span>
 
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doWork&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;getStatus&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;doSomethingWithResult&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;task_done&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+<span class="k">def</span> <span class="nf">doWork</span><span class="p">():</span>
+  <span class="k">while</span> <span class="bp">True</span><span class="p">:</span>
+    <span class="n">code</span> <span class="o">=</span> <span class="n">q</span><span class="p">.</span><span class="n">get</span><span class="p">()</span>
+    <span class="n">status</span><span class="p">,</span> <span class="n">url</span> <span class="o">=</span> <span class="n">getStatus</span><span class="p">(</span><span class="n">code</span><span class="p">)</span>
+    <span class="n">doSomethingWithResult</span><span class="p">(</span><span class="n">status</span><span class="p">,</span> <span class="n">url</span><span class="p">)</span>
+    <span class="n">q</span><span class="p">.</span><span class="n">task_done</span><span class="p">()</span>
 
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;getStatus&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;httplib&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HTTPConnection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;portal.ihotel.ca&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;function&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;ValidateAuthCode&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;iHotelAuthCode&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;iHotelLocation&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;BlueMountainGuests&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;GET&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/GuestsAPI?function=ValidateAuthCode&amp;amp;iHotelAuthCode=&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&amp;amp;iHotelLocation=BlueMountainGuests&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;res&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getresponse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;close&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;error&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
+<span class="k">def</span> <span class="nf">getStatus</span><span class="p">(</span><span class="n">code</span><span class="p">):</span>
+  <span class="k">try</span><span class="p">:</span>
+    <span class="n">conn</span> <span class="o">=</span> <span class="n">httplib</span><span class="p">.</span><span class="n">HTTPConnection</span><span class="p">(</span><span class="s">"portal.ihotel.ca"</span><span class="p">)</span>
+    <span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="s">"function"</span><span class="p">:</span> <span class="s">"ValidateAuthCode"</span><span class="p">,</span> <span class="s">"iHotelAuthCode"</span><span class="p">:</span> <span class="n">code</span><span class="p">,</span> <span class="s">"iHotelLocation"</span><span class="p">:</span> <span class="s">"BlueMountainGuests"</span><span class="p">}</span>
+    <span class="n">conn</span><span class="p">.</span><span class="n">request</span><span class="p">(</span><span class="s">"GET"</span><span class="p">,</span> <span class="s">"/GuestsAPI?function=ValidateAuthCode&amp;iHotelAuthCode="</span> <span class="o">+</span> <span class="n">code</span> <span class="o">+</span> <span class="s">"&amp;iHotelLocation=BlueMountainGuests"</span><span class="p">)</span>
+    <span class="n">res</span> <span class="o">=</span> <span class="n">conn</span><span class="p">.</span><span class="n">getresponse</span><span class="p">()</span>
+    <span class="n">val</span> <span class="o">=</span> <span class="n">res</span><span class="p">.</span><span class="n">read</span><span class="p">()</span>
+    <span class="n">conn</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+    <span class="k">return</span> <span class="n">val</span><span class="p">,</span> <span class="n">code</span>
+  <span class="k">except</span><span class="p">:</span>
+    <span class="k">return</span> <span class="s">"error"</span><span class="p">,</span> <span class="n">code</span>
 
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doSomethingWithResult&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Invalid&quot;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+<span class="k">def</span> <span class="nf">doSomethingWithResult</span><span class="p">(</span><span class="n">result</span><span class="p">,</span> <span class="n">code</span><span class="p">):</span>
+  <span class="k">print</span> <span class="n">code</span> 
+  <span class="k">if</span> <span class="s">"Invalid"</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">result</span><span class="p">:</span>
+    <span class="k">print</span> <span class="n">result</span><span class="p">,</span> <span class="n">code</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
 
-&lt;span class=&quot;n&quot;&gt;q&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Queue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numThreads&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numThreads&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Thread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;doWork&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;daemon&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;letters&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:]&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;put&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;q&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;KeyboardInterrupt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<span class="n">q</span> <span class="o">=</span> <span class="n">Queue</span><span class="p">(</span><span class="n">numThreads</span> <span class="o">*</span> <span class="mi">2</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">numThreads</span><span class="p">):</span>
+  <span class="n">t</span> <span class="o">=</span> <span class="n">Thread</span><span class="p">(</span><span class="n">target</span><span class="o">=</span><span class="n">doWork</span><span class="p">)</span>
+  <span class="n">t</span><span class="p">.</span><span class="n">daemon</span> <span class="o">=</span> <span class="bp">True</span>
+  <span class="n">t</span><span class="p">.</span><span class="n">start</span><span class="p">()</span>
+<span class="k">try</span><span class="p">:</span>
+  <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">36</span><span class="o">**</span><span class="mi">4</span><span class="p">):</span>
+    <span class="n">n</span> <span class="o">=</span> <span class="n">n</span> <span class="o">+</span> <span class="mi">36</span><span class="o">**</span><span class="mi">4</span>
+    <span class="n">code</span> <span class="o">=</span> <span class="s">""</span>
+    <span class="k">while</span> <span class="n">n</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+      <span class="n">code</span> <span class="o">=</span> <span class="n">letters</span><span class="p">[</span><span class="n">n</span><span class="o">%</span><span class="mi">36</span><span class="p">]</span> <span class="o">+</span> <span class="n">code</span>
+      <span class="n">n</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">n</span> <span class="o">/</span> <span class="mi">36</span><span class="p">)</span>
+    <span class="n">code</span> <span class="o">=</span> <span class="n">code</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span>
+    <span class="n">q</span><span class="p">.</span><span class="n">put</span><span class="p">(</span><span class="n">code</span><span class="p">)</span>
+  <span class="n">q</span><span class="p">.</span><span class="n">join</span><span class="p">()</span>
+<span class="k">except</span> <span class="nb">KeyboardInterrupt</span><span class="p">:</span>
+  <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span></code></pre></figure>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/free-wifi/&quot;;
-    this.page.identifier = &quot;/free-wifi&quot;;
+    this.page.url = "http://blog.sahiljain.ca/free-wifi/";
+    this.page.identifier = "/free-wifi";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -851,63 +851,63 @@ weights as matrices.&lt;/p&gt;
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.</summary></entry><entry><title type="html">My Time at Pivotal Labs</title><link href="http://blog.sahiljain.ca/pivotal-labs/" rel="alternate" type="text/html" title="My Time at Pivotal Labs" /><published>2014-09-03T00:00:00-07:00</published><updated>2014-09-03T00:00:00-07:00</updated><id>http://blog.sahiljain.ca/pivotal-labs</id><content type="html" xml:base="http://blog.sahiljain.ca/pivotal-labs/">&lt;p&gt;Overall, I had an awesome time over the last 4 months.  I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.&lt;/p&gt;
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><summary type="html"><![CDATA[Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.]]></summary></entry><entry><title type="html">My Time at Pivotal Labs</title><link href="http://localhost:4000/pivotal-labs/" rel="alternate" type="text/html" title="My Time at Pivotal Labs" /><published>2014-09-03T00:00:00-07:00</published><updated>2014-09-03T00:00:00-07:00</updated><id>http://localhost:4000/pivotal-labs</id><content type="html" xml:base="http://localhost:4000/pivotal-labs/"><![CDATA[<p>Overall, I had an awesome time over the last 4 months.  I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.</p>
 
-&lt;h2 id=&quot;orientation&quot;&gt;Orientation&lt;/h2&gt;
+<h2 id="orientation">Orientation</h2>
 
-&lt;p&gt;On the first day we learned how Xtreme Labs became Pivotal Labs, and then how Pivotal Labs was a part of a larger organization, Pivotal. For our first week, we weren’t assigned to any project. We were told to create an app on a platform of our choice, which consumes a REST API. The app must display information in a list format, and load it asynchronously. As a bonus, we have to persist the data. I chose to learn iOS, but after 3 days, I finished my basic app and got bored, so I made another one in Android. We also had to test our app using a framework made by Pivotal. These include, Robolectric (Android), Cedar (iOS), and Jasmine (Javascript).&lt;/p&gt;
+<p>On the first day we learned how Xtreme Labs became Pivotal Labs, and then how Pivotal Labs was a part of a larger organization, Pivotal. For our first week, we weren’t assigned to any project. We were told to create an app on a platform of our choice, which consumes a REST API. The app must display information in a list format, and load it asynchronously. As a bonus, we have to persist the data. I chose to learn iOS, but after 3 days, I finished my basic app and got bored, so I made another one in Android. We also had to test our app using a framework made by Pivotal. These include, Robolectric (Android), Cedar (iOS), and Jasmine (Javascript).</p>
 
-&lt;h2 id=&quot;culture&quot;&gt;Culture&lt;/h2&gt;
+<h2 id="culture">Culture</h2>
 
-&lt;h3 id=&quot;lunch-and-learns&quot;&gt;Lunch and Learns&lt;/h3&gt;
-&lt;p&gt;Every Tuesday the company had a Lunch and Learn, where lunch was catered and a speaker was invited to talk to us about a relevant topic. These talks were a mixture of technical and business. Some topics include:&lt;/p&gt;
+<h3 id="lunch-and-learns">Lunch and Learns</h3>
+<p>Every Tuesday the company had a Lunch and Learn, where lunch was catered and a speaker was invited to talk to us about a relevant topic. These talks were a mixture of technical and business. Some topics include:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Money management&lt;/li&gt;
-  &lt;li&gt;How to market your app&lt;/li&gt;
-  &lt;li&gt;TDD with Robolectric&lt;/li&gt;
-  &lt;li&gt;MVVM on Android&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Money management</li>
+  <li>How to market your app</li>
+  <li>TDD with Robolectric</li>
+  <li>MVVM on Android</li>
+</ul>
 
-&lt;h3 id=&quot;pair-programming&quot;&gt;Pair Programming&lt;/h3&gt;
-&lt;p&gt;Every developer at Pivotal Labs works at a pairing station. Each pairing station has one computer, two duplicate monitors, two keyboards, and two mice. At any given time, only one person can control the computer. This allows for a constant code review by the person who isn’t typing. At first, it’s difficult to grasp the idea that you are not in control of your computer. At the beginning, it frustrated me too. Later on, you become so used to it that it’s hard to code without someone there to tell you you’re on the right path. Code quality significantly increases since every line has been written with at least two pairs of eyes on it. Finally, pair programming increases productivity despite the fact that only 1 out of 2 people can type. There’s no time to screw around when someone is always there watching your screen.&lt;/p&gt;
+<h3 id="pair-programming">Pair Programming</h3>
+<p>Every developer at Pivotal Labs works at a pairing station. Each pairing station has one computer, two duplicate monitors, two keyboards, and two mice. At any given time, only one person can control the computer. This allows for a constant code review by the person who isn’t typing. At first, it’s difficult to grasp the idea that you are not in control of your computer. At the beginning, it frustrated me too. Later on, you become so used to it that it’s hard to code without someone there to tell you you’re on the right path. Code quality significantly increases since every line has been written with at least two pairs of eyes on it. Finally, pair programming increases productivity despite the fact that only 1 out of 2 people can type. There’s no time to screw around when someone is always there watching your screen.</p>
 
-&lt;h2 id=&quot;the-tools&quot;&gt;The Tools&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pivotal Tracker&lt;/strong&gt;, our story management tool.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Robolectric&lt;/strong&gt;, an Android testing framework developed by Pivotal Labs.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Travis CI&lt;/strong&gt; for continuous integration.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Android Studio&lt;/strong&gt; for our Android IDE.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="the-tools">The Tools</h2>
+<ul>
+  <li><strong>Pivotal Tracker</strong>, our story management tool.</li>
+  <li><strong>Robolectric</strong>, an Android testing framework developed by Pivotal Labs.</li>
+  <li><strong>Travis CI</strong> for continuous integration.</li>
+  <li><strong>Android Studio</strong> for our Android IDE.</li>
+</ul>
 
-&lt;h2 id=&quot;application-process&quot;&gt;Application Process&lt;/h2&gt;
+<h2 id="application-process">Application Process</h2>
 
-&lt;p&gt;The process started with a written test, which consisted of only 3 questions:&lt;/p&gt;
+<p>The process started with a written test, which consisted of only 3 questions:</p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;You are given a staircase with &lt;strong&gt;n&lt;/strong&gt; number of steps. With each stride you take,
-you can either cover 1 step, or 2 steps. How many different ways can you climb the staircase?&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>You are given a staircase with <strong>n</strong> number of steps. With each stride you take,
+you can either cover 1 step, or 2 steps. How many different ways can you climb the staircase?</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;Determine whether two rectangles are intersecting. (You are given the coordinates of all vertices of the rectangles)&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>Determine whether two rectangles are intersecting. (You are given the coordinates of all vertices of the rectangles)</p>
+</blockquote>
 
-&lt;blockquote&gt;
-  &lt;p&gt;What notable projects have you worked on in the past?&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+  <p>What notable projects have you worked on in the past?</p>
+</blockquote>
 
-&lt;div&gt;
-  &lt;h1 id=&quot;comments&quot;&gt;Comments&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
+<div>
+  <h1 id="comments">Comments</h1>
+</div>
+<div id="disqus_thread"></div>
+<script>
   var disqus_config = function () {
-    this.page.url = &quot;http://blog.sahiljain.ca/pivotal-labs/&quot;;
-    this.page.identifier = &quot;/pivotal-labs&quot;;
+    this.page.url = "http://blog.sahiljain.ca/pivotal-labs/";
+    this.page.identifier = "/pivotal-labs";
   };
   (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
@@ -915,7 +915,7 @@ you can either cover 1 step, or 2 steps. How many different ways can you climb t
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-&lt;/script&gt;
+</script>
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;
-&lt;/noscript&gt;</content><author><name></name></author><category term="co-op" /><category term="pivotal" /><summary type="html">Overall, I had an awesome time over the last 4 months. I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.</summary></entry></feed>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>]]></content><author><name></name></author><category term="co-op" /><category term="pivotal" /><summary type="html"><![CDATA[Overall, I had an awesome time over the last 4 months. I was immersed for 8 hours a day in industrial quality Android programming. It was an Agile environment, with strong emphasis on Test Driven Development, Pair Programming, Continuous Integration, and fast iterations.]]></summary></entry></feed>

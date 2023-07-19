@@ -2,22 +2,24 @@
 <html lang="en"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Building a Binary Adder Using Neural Networks | Sahil Jain’s Blog</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v4.0.1" />
 <meta property="og:title" content="Building a Binary Adder Using Neural Networks" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="I’m Sahil, a Software Engineering grad from the University of Waterloo." />
 <meta property="og:description" content="I’m Sahil, a Software Engineering grad from the University of Waterloo." />
-<link rel="canonical" href="http://blog.sahiljain.ca/binary-adder/" />
-<meta property="og:url" content="http://blog.sahiljain.ca/binary-adder/" />
+<link rel="canonical" href="http://localhost:4000/binary-adder/" />
+<meta property="og:url" content="http://localhost:4000/binary-adder/" />
 <meta property="og:site_name" content="Sahil Jain’s Blog" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2016-12-30T00:00:00-08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Building a Binary Adder Using Neural Networks" />
 <script type="application/ld+json">
-{"description":"I’m Sahil, a Software Engineering grad from the University of Waterloo.","@type":"BlogPosting","url":"http://blog.sahiljain.ca/binary-adder/","dateModified":"2016-12-30T00:00:00-08:00","datePublished":"2016-12-30T00:00:00-08:00","headline":"Building a Binary Adder Using Neural Networks","mainEntityOfPage":{"@type":"WebPage","@id":"http://blog.sahiljain.ca/binary-adder/"},"@context":"https://schema.org"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2016-12-30T00:00:00-08:00","datePublished":"2016-12-30T00:00:00-08:00","description":"I’m Sahil, a Software Engineering grad from the University of Waterloo.","headline":"Building a Binary Adder Using Neural Networks","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/binary-adder/"},"url":"http://localhost:4000/binary-adder/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://blog.sahiljain.ca/feed.xml" title="Sahil Jain's Blog" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Sahil Jain&apos;s Blog" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Sahil Jain&#39;s Blog</a><nav class="site-nav">
@@ -64,14 +66,14 @@ so it also shows an equivalence between digital computers and the brain.</p>
 
 <p><img src="/images/neuron.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
-<p>It takes in an array of inputs <script type="math/tex">u_0, u_1, u_2</script>, multiplies each element by its
+<p>It takes in an array of inputs \(u_0, u_1, u_2\), multiplies each element by its
 respective weight, and sums this. If the sum is greater than the threshold
-(<script type="math/tex">-b_0</script>), output 1, otherwise output 0. Formally, the output is</p>
+(\(-b_0\)), output 1, otherwise output 0. Formally, the output is</p>
 
-<script type="math/tex; mode=display">y_0 = sigmoid(u_0w_0 + u_1w_1 + u_2w_2 + b_0)</script>
+\[y_0 = sigmoid(u_0w_0 + u_1w_1 + u_2w_2 + b_0)\]
 
-<p>where <script type="math/tex">sigmoid</script> is a smoothed step function outputting 1 if the input is <script type="math/tex">>
-0</script>. Using this formula, and restricting the inputs to be 0 or 1, we can build
+<p>where \(sigmoid\) is a smoothed step function outputting 1 if the input is \(&gt;
+0\). Using this formula, and restricting the inputs to be 0 or 1, we can build
 an AND operator:</p>
 
 <p><img src="/images/and.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
@@ -87,7 +89,7 @@ inputs are 1, the sum will be 0.5 so the neuron will activate. Similarly, we can
 <p><img src="/images/not.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
 <p>Using these 3 basic logic gates, we can build more complicated gates such as
-XOR. We can simplify the XOR gate by realizing that <script type="math/tex">A\ XOR\ B</script> is the same as <script type="math/tex">(A\ OR\ B)\ AND\ NOT\ (A\ AND\ B)</script>:</p>
+XOR. We can simplify the XOR gate by realizing that \(A\ XOR\ B\) is the same as \((A\ OR\ B)\ AND\ NOT\ (A\ AND\ B)\):</p>
 
 <p><img src="/images/xor.png" alt="Neuron" width="500px" style="margin: 0 auto; display: block;" /></p>
 
@@ -131,24 +133,24 @@ weights and biases of the network will also be variables. We will specify the
 weights as matrices.</p>
 
 <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="c1"># Variable to populate with input
-</span><span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="s">"float"</span><span class="p">,</span> <span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="n">input_size</span><span class="p">])</span>
+</span><span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="p">.</span><span class="n">placeholder</span><span class="p">(</span><span class="s">"float"</span><span class="p">,</span> <span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="n">input_size</span><span class="p">])</span>
 
 <span class="c1"># Variable which will be populated with output
-</span><span class="n">y</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="s">"float"</span><span class="p">,</span> <span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="n">output_size</span><span class="p">])</span>
+</span><span class="n">y</span> <span class="o">=</span> <span class="n">tf</span><span class="p">.</span><span class="n">placeholder</span><span class="p">(</span><span class="s">"float"</span><span class="p">,</span> <span class="p">[</span><span class="bp">None</span><span class="p">,</span> <span class="n">output_size</span><span class="p">])</span>
 
 <span class="c1"># Variables which we will be learning
 </span><span class="n">weights</span> <span class="o">=</span> <span class="p">{</span>
-  <span class="s">'h1'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">input_size</span><span class="p">,</span> <span class="n">hidden_1_size</span><span class="p">])),</span>
-  <span class="s">'h2'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_1_size</span><span class="p">,</span> <span class="n">hidden_2_size</span><span class="p">])),</span>
-  <span class="s">'h3'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_2_size</span><span class="p">,</span> <span class="n">hidden_3_size</span><span class="p">])),</span>
-  <span class="s">'out'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_3_size</span><span class="p">,</span> <span class="n">output_size</span><span class="p">]))</span>
+  <span class="s">'h1'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">input_size</span><span class="p">,</span> <span class="n">hidden_1_size</span><span class="p">])),</span>
+  <span class="s">'h2'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_1_size</span><span class="p">,</span> <span class="n">hidden_2_size</span><span class="p">])),</span>
+  <span class="s">'h3'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_2_size</span><span class="p">,</span> <span class="n">hidden_3_size</span><span class="p">])),</span>
+  <span class="s">'out'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_3_size</span><span class="p">,</span> <span class="n">output_size</span><span class="p">]))</span>
 <span class="p">}</span>
 
 <span class="n">biases</span> <span class="o">=</span> <span class="p">{</span>
-  <span class="s">'b1'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_1_size</span><span class="p">])),</span>
-  <span class="s">'b2'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_2_size</span><span class="p">])),</span>
-  <span class="s">'b3'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_3_size</span><span class="p">])),</span>
-  <span class="s">'out'</span><span class="p">:</span> <span class="n">tf</span><span class="o">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">output_size</span><span class="p">]))</span>
+  <span class="s">'b1'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_1_size</span><span class="p">])),</span>
+  <span class="s">'b2'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_2_size</span><span class="p">])),</span>
+  <span class="s">'b3'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">hidden_3_size</span><span class="p">])),</span>
+  <span class="s">'out'</span><span class="p">:</span> <span class="n">tf</span><span class="p">.</span><span class="n">Variable</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">random_normal</span><span class="p">([</span><span class="n">output_size</span><span class="p">]))</span>
 <span class="p">}</span></code></pre></figure>
 
 <p>The rest of the Tensorflow program is left as an exercise to the reader.</p>

